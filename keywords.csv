@@ -1,20 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,2,0.5
-'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.5
-'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.5
+'wet soil',en,Impacts,#ffff00,#ffff00,2,0.5
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.5
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,2,0.5
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.5
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.5
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.5
+'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.5
 'high soil moisture',en,Impacts,#ffff00,#ffff00,2,0.5
-'wet soil',en,Impacts,#ffff00,#ffff00,2,0.5
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.5
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.5
 'swampy fields',en,Impacts,#ffff00,#ffff00,2,0.5
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.5
 'rain fatique',en,Hazard,#ff0000,#ff0000,2,0.5
 'waterlogged',en,Hazard,#ff0000,#ff0000,2,0.5
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.49596902374999996
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.4959690237499999
 'constant rain',en,Hazard,#ff0000,#ff0000,2,0.4617709718181818
+'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.43448934499999997
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.425000285

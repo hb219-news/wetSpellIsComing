@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.5
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,2,0.5
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.5
-'mould rain',en,Impacts,#ffff00,#ffff00,2,0.5
 'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.5
 'constant rain',en,Hazard,#ff0000,#ff0000,2,0.4617709718181818
+'mould rain',en,Impacts,#ffff00,#ffff00,1,0.425000285

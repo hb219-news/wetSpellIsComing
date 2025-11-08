@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flood-borne diseases',en,Impacts,#ffff00,#ffff00,2,0.5
+'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.5
 'rain fatique',en,Hazard,#ff0000,#ff0000,2,0.5
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.5
 'high soil moisture',en,Impacts,#ffff00,#ffff00,2,0.5
@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.5
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.5
 'swampy fields',en,Impacts,#ffff00,#ffff00,2,0.5
-'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.5
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.4959690237499999
 'constant rain',en,Hazard,#ff0000,#ff0000,2,0.4617709718181818
 'waterlogged',en,Hazard,#ff0000,#ff0000,2,0.4457180916666666
@@ -18,3 +17,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.4280003
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.426500645
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.425000285
+'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.42500010499999996

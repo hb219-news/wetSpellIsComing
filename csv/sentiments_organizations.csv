@@ -1,32 +1,20 @@
 ,phrase,label,sentiment,subjectivity,language,count
-The National Weather Service is advising,The National Weather Service is advising,ORG,0.0,0.0,en,2
-Kahilipara to help mitigate flooding,Kahilipara to help mitigate flooding,ORG,0.0,0.0,en,2
-For years,For years,ORG,0.0,0.0,en,2
-efforts are being made to control the increasing water levels,efforts are being made to control the increasing water levels,ORG,0.0,0.0,en,2
-pristine,pristine,ORG,0.0,0.0,en,2
+Scunthorpe United,Scunthorpe United,ORG,-0.125,0.1875,en,2
+FDNY,FDNY,ORG,-0.2,0.0,en,2
+SoCal,SoCal,ORG,0.0,0.0,en,2
+National League,National League,ORG,-0.125,0.1875,en,2
+The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,2
+Navi Mumbai,Navi Mumbai,ORG,-0.06666666666666667,0.39999999999999997,en,2
+neutro,neutro,ORG,0.04,0.0,en,1
+GMDA,GMDA,ORG,0.0,0.0,en,1
+AUKH,AUKH,ORG,0.0,0.0,en,1
+Sponge,Sponge,ORG,0.0,0.0,en,1
+NYPD,NYPD,ORG,-0.2,0.0,en,1
 NWS,NWS,ORG,0.0,0.0,en,1
-improving groundwater and urban ecosystems,improving groundwater and urban ecosystems,ORG,0.0,0.0,en,1
-at Rupnagar and Kahilipara,at Rupnagar and Kahilipara,ORG,0.0,0.0,en,1
-These engineered wetlands,These engineered wetlands,ORG,0.0,0.0,en,1
-designed by AUKH and implemented by GMDA,designed by AUKH and implemented by GMDA,ORG,0.0,0.0,en,1
-at Rupnagar…,at Rupnagar…,ORG,0.0,0.0,en,1
-News</li,News</li,ORG,0.0,0.0,en,1
-FDNY,FDNY,ORG,0.0,0.0,en,1
-Rochdale's,Rochdale's,ORG,0.0,0.0,en,1
-Rochdale's National League fixture,Rochdale's National League fixture,ORG,0.0,0.0,en,1
-United on Tuesday has been postponed due to a waterlogged pitch,United on Tuesday has been postponed due to a waterlogged pitch,ORG,0.0,0.0,en,1
-officials said,officials said,ORG,0.0,0.0,en,1
 Penang Water Supply Corporation,Penang Water Supply Corporation,ORG,0.0,0.0,en,1
-Rain thwarts India and Bangladesh,Rain thwarts India and Bangladesh,ORG,0.0,0.0,en,1
+Perak water committee,Perak water committee,ORG,0.0,0.0,en,1
+IPOH,IPOH,ORG,-0.125,0.0,en,1
+Bukit Merah Dam Releases,Bukit Merah Dam Releases,ORG,-0.2,0.0,en,1
+Perak,Perak,ORG,-0.2,0.0,en,1
+Pompeii,Pompeii,ORG,0.0,0.0,en,1
 PBAPP,PBAPP,ORG,0.0,0.0,en,1
-flood watch issued,flood watch issued,ORG,0.0,0.0,en,1
-Perak water committee chairman Datuk,Perak water committee chairman Datuk,ORG,0.0,0.0,en,1
-IPOH,IPOH,ORG,0.0,0.0,en,1
-Mosquitoes were detected,Mosquitoes were detected,ORG,0.0,0.0,en,1
-and resilient to the turbulence of modernization,and resilient to the turbulence of modernization,ORG,0.0,0.0,en,1
-we believed the Himalayas were a climatic sanctuaryuntouched,we believed the Himalayas were a climatic sanctuaryuntouched,ORG,0.0,0.0,en,1
-the plains,the plains,ORG,0.0,0.0,en,1
-the dynamics of megacities,the dynamics of megacities,ORG,0.0,0.0,en,1
-we believed the Himalayas were a climatic sanctuary—untouched,we believed the Himalayas were a climatic sanctuary—untouched,ORG,0.0,0.0,en,1
-Long-term data-driven,Long-term data-driven,ORG,0.0,0.0,en,1
-between the league leaders and second-placed side,between the league leaders and second-placed side,ORG,0.0,0.0,en,1

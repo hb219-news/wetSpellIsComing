@@ -1,11 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Waterlogged paddy fields produce a lot of methane,Waterlogged paddy fields produce a lot of methane,PER,0.0,0.0,en,1
-Scientists warn,Scientists warn,PER,0.0,0.0,en,1
-historian Steven Tuck,historian Steven Tuck,PER,0.0,0.0,en,1
-escalating rainfall,escalating rainfall,PER,0.0,0.0,en,1
-Himalayan foothills,Himalayan foothills,PER,0.0,0.0,en,1
-Iceland is no longer among the few places,Iceland is no longer among the few places,PER,0.0,0.0,en,1
-Merah Dam Releases water amid heavy,Merah Dam Releases water amid heavy,PER,0.0,0.0,en,1
-Mohammad Nizar Jamaluddin,Mohammad Nizar Jamaluddin,PER,0.0,0.0,en,1
-Navi Mumbai,Navi Mumbai,PER,0.0,0.0,en,1
-Delhi is using,Delhi is using,PER,0.0,0.0,en,1
+GEORGE TOWN,GEORGE TOWN,PERSON,0.175,0.275,en,2
+Steven Tuck,Steven Tuck,PERSON,0.3333333333333333,1.0,en,1
+Datuk Seri Mohammad Nizar Jamaluddin,Datuk Seri Mohammad Nizar Jamaluddin,PERSON,0.0,0.0,en,1
+Rochdale P-P,Rochdale P-P,PERSON,0.0,0.0,en,1

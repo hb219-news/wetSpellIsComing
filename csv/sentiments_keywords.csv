@@ -1,7 +1,7 @@
 keyword,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
-'constant rain',0.0,1.0,0.0,1.0,1.0
-'continuous rainfall',,1.0,,1.0,2.0
-'fungal infections',0.0,1.0,0.0,1.0,1.0
+'constant rain',-0.15,1.0,0.3,1.0,1.0
+'continuous rainfall',0.0,1.0,4.440892098500626e-16,0.9999999999999998,2.0
+'fungal infections',0.04666666666666667,1.0,0.15333333333333332,1.0,1.0
 'groundwater flood',0.0,1.0,0.0,1.0,1.0
-'persistent rain',0.0,1.0,0.0,1.0,6.0
-'waterlogged',0.0,0.0,0.0,0.0,3.0
+'persistent rain',0.11785113019775888,0.6952217871538073,0.11785113019775799,0.695221787153807,6.0
+'waterlogged',-0.2530182777115332,0.3941090290343942,0.05737133267807722,0.681208424092393,3.0

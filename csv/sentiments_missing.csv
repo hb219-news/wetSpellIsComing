@@ -1,11 +1,43 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Mount Vesuvius,,,,,,
-Navi Mumbai,,,,,,
-New Delhi,,,,,,
-flooded basements,,,,,,
-New York City,,,,,,
-Sponge parks at Rupnagar,,,,,,
-Guwahati,,,,,,
-Guwahati is pioneering sponge parks,,,,,,
-Guwahati</li></ul,,,,,,
-Migrating Neutrophils,,,,,,
+zero,zero,CARDINAL,,,en,3
+years,years,DATE,,,en,2
+the Bukit Merah Dam,the Bukit Merah Dam,FAC,,,en,2
+the Air Itam Dam,the Air Itam Dam,FAC,,,en,2
+the Women's World Cup,the Women's World Cup,EVENT,,,en,2
+2030,2030,DATE,,,en,2
+Himalayas,Himalayas,NORP,,,en,2
+this week,this week,DATE,,,en,2
+Thursdays,Thursdays,DATE,,,en,1
+Two,Two,CARDINAL,,,en,1
+2025,2025,DATE,,,en,1
+Oct. 30,Oct. 30,DATE,,,en,1
+first,first,ORDINAL,,,en,1
+2,2,CARDINAL,,,en,1
+These days,These days,DATE,,,en,1
+weeks,weeks,DATE,,,en,1
+40 million,40 million,CARDINAL,,,en,1
+4:25 p.m.,4:25 p.m.,TIME,,,en,1
+Tuesday,Tuesday,DATE,,,en,1
+Air Itam Dam,Air Itam Dam,FAC,,,en,1
+one,one,CARDINAL,,,en,1
+this month,this month,DATE,,,en,1
+Thursday,Thursday,DATE,,,en,1
+2025-10-06,2025-10-06,DATE,,,en,1
+04:00:13,04:00:13,PRODUCT,,,en,1
+Himalayan,Himalayan,NORP,,,en,1
+winter,winter,DATE,,,en,1
+late Monday,late Monday,DATE,,,en,1
+'day,'day,DATE,,,en,1
+Three-quarters,Three-quarters,DATE,,,en,1
+this century,this century,DATE,,,en,1
+Almost three-quarters,Almost three-quarters,CARDINAL,,,en,1
+2100,2100,CARDINAL,,,en,1
+a third,a third,CARDINAL,,,en,1
+Romans,Romans,NORP,,,en,1
+79,79,CARDINAL,,,en,1
+two,two,CARDINAL,,,en,1
+three,three,CARDINAL,,,en,1
+a couple hundred,a couple hundred,CARDINAL,,,en,1
+Mount Vesuvius,Mount Vesuvius,FAC,-0.06666666666666667,0.5666666666666667,en,1
++15392,+15392,NORP,,,en,1
+second,second,ORDINAL,,,en,1

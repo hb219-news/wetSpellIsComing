@@ -1,5 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
 GEORGE TOWN,GEORGE TOWN,PERSON,0.175,0.275,en,2
+Jal Shakti Abhiyan,Jal Shakti Abhiyan,PERSON,0.1,0.0,en,1
+Brendan Mullin-Imagn,Brendan Mullin-Imagn,PERSON,0.03333333333333333,0.3,en,1
+Ranji Trophy,Ranji Trophy,PERSON,0.0,0.0,en,1
+Met Éireann,Met Éireann,PERSON,-0.16666666666666666,0.3333333333333333,en,1
+Met Éirean,Met Éirean,PERSON,-0.16666666666666666,0.3333333333333333,en,1
 Steven Tuck,Steven Tuck,PERSON,0.3333333333333333,1.0,en,1
 Datuk Seri Mohammad Nizar Jamaluddin,Datuk Seri Mohammad Nizar Jamaluddin,PERSON,0.0,0.0,en,1
 Rochdale P-P,Rochdale P-P,PERSON,0.0,0.0,en,1

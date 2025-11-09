@@ -1,31 +1,46 @@
 ,phrase,label,sentiment,subjectivity,language,count
+three,three,CARDINAL,,,en,5
+2025,2025,DATE,,,en,4
+Sunday,Sunday,DATE,,,en,3
 zero,zero,CARDINAL,,,en,3
-years,years,DATE,,,en,2
+Thursday,Thursday,DATE,,,en,3
+the Women's World Cup,the Women's World Cup,EVENT,,,en,2
+earlier this week,earlier this week,DATE,,,en,2
 the Bukit Merah Dam,the Bukit Merah Dam,FAC,,,en,2
 the Air Itam Dam,the Air Itam Dam,FAC,,,en,2
-the Women's World Cup,the Women's World Cup,EVENT,,,en,2
-2030,2030,DATE,,,en,2
 Himalayas,Himalayas,NORP,,,en,2
+years,years,DATE,,,en,2
+2030,2030,DATE,,,en,2
+This weekend,This weekend,DATE,,,en,2
+second,second,ORDINAL,,,en,2
+winter,winter,DATE,,,en,2
 this week,this week,DATE,,,en,2
-Thursdays,Thursdays,DATE,,,en,1
-Two,Two,CARDINAL,,,en,1
-2025,2025,DATE,,,en,1
-Oct. 30,Oct. 30,DATE,,,en,1
-first,first,ORDINAL,,,en,1
-2,2,CARDINAL,,,en,1
-These days,These days,DATE,,,en,1
-weeks,weeks,DATE,,,en,1
-40 million,40 million,CARDINAL,,,en,1
-4:25 p.m.,4:25 p.m.,TIME,,,en,1
-Tuesday,Tuesday,DATE,,,en,1
+Wednesday,Wednesday,DATE,,,en,2
+2025-10-06,2025-10-06,DATE,,,en,1
 Air Itam Dam,Air Itam Dam,FAC,,,en,1
+4.5 lakh,4.5 lakh,MONEY,,,en,1
+today,today,DATE,,,en,1
+"4,000 years","4,000 years",DATE,,,en,1
 one,one,CARDINAL,,,en,1
 this month,this month,DATE,,,en,1
-Thursday,Thursday,DATE,,,en,1
-2025-10-06,2025-10-06,DATE,,,en,1
-04:00:13,04:00:13,PRODUCT,,,en,1
+"the past 4,000 years","the past 4,000 years",DATE,,,en,1
+same period last years,same period last years,DATE,,,en,1
+about 4.5 lakh hectares,about 4.5 lakh hectares,QUANTITY,,,en,1
+October 24,October 24,DATE,,,en,1
+2.74 per cent,2.74 per cent,MONEY,,,en,1
+4.38 lakh,4.38 lakh,MONEY,,,en,1
+40 million,40 million,CARDINAL,,,en,1
+weeks,weeks,DATE,,,en,1
+These days,These days,DATE,,,en,1
+2,2,CARDINAL,,,en,1
+Oct. 30,Oct. 30,DATE,,,en,1
+Two,Two,CARDINAL,,,en,1
+Thursdays,Thursdays,DATE,,,en,1
+4:25 p.m.,4:25 p.m.,TIME,,,en,1
+first,first,ORDINAL,,,en,1
 Himalayan,Himalayan,NORP,,,en,1
-winter,winter,DATE,,,en,1
++2094 chars,+2094 chars,WORK_OF_ART,,,en,1
+September,September,DATE,,,en,1
 late Monday,late Monday,DATE,,,en,1
 'day,'day,DATE,,,en,1
 Three-quarters,Three-quarters,DATE,,,en,1
@@ -33,11 +48,20 @@ this century,this century,DATE,,,en,1
 Almost three-quarters,Almost three-quarters,CARDINAL,,,en,1
 2100,2100,CARDINAL,,,en,1
 a third,a third,CARDINAL,,,en,1
+Oct. 15,Oct. 15,DATE,,,en,1
+overnight,overnight,TIME,,,en,1
+a second straight day,a second straight day,DATE,,,en,1
+the days,the days,DATE,,,en,1
+the JN Stadium,the JN Stadium,FAC,,,en,1
+Syllad |,Syllad |,WORK_OF_ART,,,en,1
+this evening,this evening,TIME,,,en,1
 Romans,Romans,NORP,,,en,1
 79,79,CARDINAL,,,en,1
 two,two,CARDINAL,,,en,1
-three,three,CARDINAL,,,en,1
 a couple hundred,a couple hundred,CARDINAL,,,en,1
 Mount Vesuvius,Mount Vesuvius,FAC,-0.06666666666666667,0.5666666666666667,en,1
 +15392,+15392,NORP,,,en,1
-second,second,ORDINAL,,,en,1
+04:00:13,04:00:13,PRODUCT,,,en,1
+Sept,Sept,DATE,,,en,1
+nearly six,nearly six,CARDINAL,,,en,1
+Tuesday,Tuesday,DATE,,,en,1

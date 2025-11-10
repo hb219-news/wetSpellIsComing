@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'swampy fields',en,Impacts,#ffff00,#ffff00,2,0.5
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.4390434140909091
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.4346696807692307
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.429650975
 'wet soil',en,Impacts,#ffff00,#ffff00,2,0.42905195
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.425
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.402003540590909
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3971858463932458
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.3872297310681818
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.3865469521363636
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.3833618029166666
 'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.3739676682499999

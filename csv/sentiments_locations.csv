@@ -1,25 +1,27 @@
 ,phrase,label,sentiment,subjectivity,language,count
-India,India,GPE,0.053398268398268396,0.3711688311688311,en,7
-New Delhi,New Delhi,GPE,0.10287878787878786,0.5751515151515151,en,3
-Kahilipara,Kahilipara,GPE,0.0,0.0,en,3
-Kerala,Kerala,GPE,0.027777777777777776,0.08333333333333333,en,3
-Rupnagar,Rupnagar,GPE,0.0,0.0,en,3
-Bangladesh,Bangladesh,GPE,-0.08888888888888889,0.5333333333333333,en,3
+India,India,GPE,0.1021625344352617,0.3271074380165289,en,11
+Kerala,Kerala,GPE,0.016666666666666666,0.05,en,5
+Tamil Nadu,Tamil Nadu,GPE,0.0,0.0,en,4
+Australia,Australia,GPE,0.1875,0.25,en,4
 Los Angeles,Los Angeles,GPE,-0.06666666666666667,0.16666666666666666,en,3
+Bangladesh,Bangladesh,GPE,-0.08888888888888889,0.5333333333333333,en,3
+Iceland,Iceland,GPE,0.075,0.37222222222222223,en,3
+New Delhi,New Delhi,GPE,0.10287878787878786,0.5751515151515151,en,3
 Meghalaya,Meghalaya,GPE,0.011111111111111113,0.12222222222222223,en,3
 China,China,GPE,0.08680555555555554,0.2513888888888889,en,3
-Iceland,Iceland,GPE,0.075,0.37222222222222223,en,3
-Guwahati,Guwahati,GPE,0.0,0.0,en,2
-Rochdale,Rochdale,GPE,-0.125,0.375,en,2
+Rupnagar,Rupnagar,GPE,0.0,0.0,en,3
+Kahilipara,Kahilipara,GPE,0.0,0.0,en,3
 Mizoram,Mizoram,GPE,0.01666666666666667,0.18333333333333335,en,2
-Tamil Nadu,Tamil Nadu,GPE,0.0,0.0,en,2
-Naples,Naples,GPE,-0.06666666666666667,0.5666666666666667,en,1
+Guwahati,Guwahati,GPE,0.0,0.0,en,2
+Karnataka,Karnataka,GPE,-0.05,0.125,en,2
+Rochdale,Rochdale,GPE,-0.125,0.375,en,2
+New York City,New York City,GPE,-0.03181818181818183,0.4772727272727273,en,1
+Delhi,Delhi,GPE,0.0,0.0,en,1
+Southern California,Southern California,LOC,0.0,0.0,en,1
 the Bay of Bengal,the Bay of Bengal,LOC,-0.0625,0.1875,en,1
-Karnataka,Karnataka,GPE,-0.1,0.25,en,1
 Mount Vesuvius,Mount Vesuvius,LOC,0.3333333333333333,1.0,en,1
 the South Peninsula,the South Peninsula,LOC,0.0,0.0,en,1
-Delhi,Delhi,GPE,0.0,0.0,en,1
-New York City,New York City,GPE,-0.03181818181818183,0.4772727272727273,en,1
 TN,TN,GPE,0.08333333333333333,0.25,en,1
 Dublin,Dublin,GPE,0.0,0.5,en,1
-Southern California,Southern California,LOC,0.0,0.0,en,1
+Andhra,Andhra,GPE,0.0,0.0,en,1
+Naples,Naples,GPE,-0.06666666666666667,0.5666666666666667,en,1

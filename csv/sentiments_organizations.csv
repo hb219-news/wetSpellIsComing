@@ -1,29 +1,29 @@
 ,phrase,label,sentiment,subjectivity,language,count
+IMD,IMD,ORG,0.016666666666666663,0.08333333333333333,en,3
 Bengaluru,Bengaluru,ORG,0.14583333333333334,0.22916666666666666,en,3
 Scunthorpe United,Scunthorpe United,ORG,-0.125,0.1875,en,2
-FDNY,FDNY,ORG,-0.2,0.0,en,2
-The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,2
-IMD,IMD,ORG,0.125,0.0,en,2
-Navi Mumbai,Navi Mumbai,ORG,-0.06666666666666667,0.39999999999999997,en,2
-Plate Group,Plate Group,ORG,0.01666666666666667,0.08333333333333333,en,2
-UCLA,UCLA,ORG,0.03333333333333333,0.15,en,2
-National League,National League,ORG,-0.125,0.1875,en,2
 SoCal,SoCal,ORG,0.0,0.0,en,2
+National League,National League,ORG,-0.125,0.1875,en,2
+The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,2
+Plate Group,Plate Group,ORG,0.01666666666666667,0.08333333333333333,en,2
+FDNY,FDNY,ORG,-0.2,0.0,en,2
+UCLA,UCLA,ORG,0.03333333333333333,0.15,en,2
+Navi Mumbai,Navi Mumbai,ORG,-0.06666666666666667,0.39999999999999997,en,2
+Penang Water Supply Corporation,Penang Water Supply Corporation,ORG,0.0,0.0,en,1
+IPOH,IPOH,ORG,-0.125,0.0,en,1
+Perak water committee,Perak water committee,ORG,0.0,0.0,en,1
+Farmers,Farmers,ORG,0.0625,0.0,en,1
+PBAPP,PBAPP,ORG,0.0,0.0,en,1
+Perak,Perak,ORG,-0.2,0.0,en,1
 NYPD,NYPD,ORG,-0.2,0.0,en,1
 Sponge,Sponge,ORG,0.0,0.0,en,1
-IPOH,IPOH,ORG,-0.125,0.0,en,1
 AUKH,AUKH,ORG,0.0,0.0,en,1
-Farmers,Farmers,ORG,0.0625,0.0,en,1
 GMDA,GMDA,ORG,0.0,0.0,en,1
-PBAPP,PBAPP,ORG,0.0,0.0,en,1
 neutro,neutro,ORG,0.04,0.0,en,1
-Penang Water Supply Corporation,Penang Water Supply Corporation,ORG,0.0,0.0,en,1
-Perak water committee,Perak water committee,ORG,0.0,0.0,en,1
-NWS,NWS,ORG,0.0,0.0,en,1
 Bukit Merah Dam Releases,Bukit Merah Dam Releases,ORG,-0.2,0.0,en,1
-Perak,Perak,ORG,-0.2,0.0,en,1
+NWS,NWS,ORG,0.0,0.0,en,1
 Rutgers University,Rutgers University,ORG,0.14583333333333331,0.0,en,1
-Pompeii,Pompeii,ORG,0.0,0.0,en,1
+The India Meteorological Department,The India Meteorological Department,ORG,0.0,0.0,en,1
 Status Orange,Status Orange,ORG,0.0,0.0,en,1
 ThursdayDay,ThursdayDay,ORG,-0.06666666666666667,0.0,en,1
 The India Rainwater Harvesting Market,The India Rainwater Harvesting Market,ORG,0.0,0.0,en,1
@@ -33,4 +33,8 @@ EcoWater Systems,EcoWater Systems,ORG,0.5,0.0,en,1
 Rainmaxx Solutions,Rainmaxx Solutions,ORG,0.5,0.0,en,1
 Hydrostatics Watertech Consultants,Hydrostatics Watertech Consultants,ORG,0.5,0.0,en,1
 India Rainwater Harvesting Market Report,India Rainwater Harvesting Market Report,ORG,0.5,0.0,en,1
-The India Meteorological Department,The India Meteorological Department,ORG,0.0,0.0,en,1
+Mertrological Department's,Mertrological Department's,ORG,0.0,0.0,en,1
+12:37:46,12:37:46,ORG,0.0,0.0,en,1
+Telangana,Telangana,ORG,0.0,0.0,en,1
+Indian Mertrological Department's,Indian Mertrological Department's,ORG,0.0,0.0,en,1
+Pompeii,Pompeii,ORG,0.0,0.0,en,1

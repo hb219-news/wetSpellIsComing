@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.4250001949999999
-'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.425
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.402003540590909
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3971858463932458
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.3872297310681818
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.3739676682499999
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.36904556075
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.363800495
+'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.36124999999999996
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.3341977000124999
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.3291937694922078
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.3184233916249999

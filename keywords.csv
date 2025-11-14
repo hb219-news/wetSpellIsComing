@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.36904556075
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.363800495
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.34676017443425894
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3467601744342589
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.3341977000124999
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.3291937694922078
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.3184233916249999
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.3098687433875
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.3075343657625
-'mould rain',en,Impacts,#ffff00,#ffff00,1,0.281942029675625
+'mould rain',en,Impacts,#ffff00,#ffff00,1,0.24205096522428124

@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.3872297310681818
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.3870877854720279
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.3865469521363636
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.38552608824999995
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.38485424375
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.3833618029166666
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.3774502092499999
 'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.3739676682499999
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.36904556075
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.363800495
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.3341977000124999
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.3291937694922078
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.3184233916249999
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.3098687433875

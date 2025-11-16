@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.4250001949999999
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.3870877854720279
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.3865469521363636
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.38485424375
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.3774502092499999
 'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.3739676682499999
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.36904556075
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.36395045074999993
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.363800495
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3467601744342589

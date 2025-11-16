@@ -4,15 +4,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.38485424375
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.3833618029166666
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.3774502092499999
-'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.3739676682499999
 'drainage rain',en,Adaptation,#0000ff,#0000ff,2,0.36904556075
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.36395045074999993
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.3639504507499999
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.363800495
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3467601744342589
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.3465058895022726
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.3414471764079545
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.3291937694922078
+'fungal infections',en,Impacts,#ffff00,#ffff00,2,0.3222241380124999
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.3184233916249999
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2845186000106249
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.266238881879375

@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3467601744342589
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.3414471764079545
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.3317770821874999
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.3184233916249999
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.3183403916375
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.3072098888042044
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.2861921373106249
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2845186000106249
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.2828154990683766
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.27516189288124987
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.266238881879375
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.261704255898125
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.2420509652242812

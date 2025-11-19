@@ -2,19 +2,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.3774502092499999
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.3467601744342589
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.3414471764079545
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.333066754315909
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.3299090324791666
 'groundwater flood',en,Impacts,#ffff00,#ffff00,1,0.3290250826512237
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.3183403916375
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.3122081831374999
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.31103060075
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.29518200494676133
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.2865114948593749
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.2861921373106249
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2845186000106249
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.2828154990683766
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.266238881879375
-'constant rain',en,Hazard,#ff0000,#ff0000,3,0.26593104548357377
+'constant rain',en,Hazard,#ff0000,#ff0000,3,0.2659310454835737
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.2423774599835451
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.2225986475134062
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.207993545440639

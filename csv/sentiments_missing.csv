@@ -1,286 +1,287 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-2025,2025,DATE,,,en,21,,,,,,
-first,first,ORDINAL,,,en,12,,,,,,
-three,three,CARDINAL,,,en,10,,,,,,
-one,one,CARDINAL,,,en,8,,,,,,
-2030,2030,DATE,,,en,7,,,,,,
-this week,this week,DATE,,,en,5,,,,,,
-five,five,CARDINAL,,,en,5,,,,,,
-years,years,DATE,,,en,5,,,,,,
-Thursday,Thursday,DATE,,,en,5,,,,,,
-today,today,DATE,,,en,5,,,,,,
-At Least 14,At Least 14,CARDINAL,,,en,4,,,,,,
-Thanksgiving,Thanksgiving,DATE,,,en,4,,,,,,
-Tuesday,Tuesday,DATE,,,en,4,,,,,,
-Italian,Italian,NORP,,,en,4,,,,,,
-November 1,November 1,DATE,,,en,4,,,,,,
-80%,80%,PERCENT,,,en,3,,,,,,
-Wednesday,Wednesday,DATE,,,en,3,,,,,,
-One,One,CARDINAL,,,en,3,,,,,,
-second,second,ORDINAL,,,en,3,,,,,,
-zero,zero,CARDINAL,,,en,3,,,,,,
-2,2,CARDINAL,,,en,3,,,,,,
-African,African,NORP,,,en,3,,,,,,
-Sunday,Sunday,DATE,,,en,3,,,,,,
-October,October,DATE,,,en,2,,,,,,
-the Women's World Cup,the Women's World Cup,EVENT,,,en,2,,,,,,
-American,American,NORP,,,en,2,,,,,,
-Thai,Thai,NORP,,,en,2,,,,,,
-2000,2000,DATE,,,en,2,,,,,,
-$20 billion,$20 billion,MONEY,,,en,2,,,,,,
-Proposition 4,Proposition 4,LAW,,,en,2,,,,,,
-2.5,2.5,CARDINAL,,,en,2,,,,,,
-3,3,CARDINAL,,,en,2,,,,,,
-an hour,an hour,TIME,,,en,2,,,,,,
-This week,This week,DATE,,,en,2,,,,,,
-tomorrow,tomorrow,DATE,,,en,2,,,,,,
-Himalayas,Himalayas,NORP,,,en,2,,,,,,
-25,25,CARDINAL,,,en,2,,,,,,
-This weekend,This weekend,DATE,,,en,2,,,,,,
-Türkiye,Türkiye,NORP,0.5,1.0,en,2,,,,,,
-the Air Itam Dam,the Air Itam Dam,FAC,,,en,2,,,,,,
-Samba,Samba,WORK_OF_ART,,,en,2,,,,,,
-1978,1978,DATE,,,en,2,,,,,,
-about 1845 to 1852,about 1845 to 1852,DATE,,,en,2,,,,,,
-the Bukit Merah Dam,the Bukit Merah Dam,FAC,,,en,2,,,,,,
-just 10,just 10,CARDINAL,,,en,2,,,,,,
-up to 40%,up to 40%,PERCENT,,,en,2,,,,,,
-the Year,the Year,DATE,,,en,2,,,,,,
-North American,North American,NORP,,,en,2,,,,,,
-British,British,NORP,,,en,2,,,,,,
-10,10,CARDINAL,,,en,2,,,,,,
-annual,annual,DATE,,,en,2,,,,,,
-four,four,CARDINAL,,,en,2,,,,,,
-third,third,ORDINAL,,,en,2,,,,,,
-Oct 13–18,Oct 13–18,DATE,,,en,2,,,,,,
-October 12,October 12,DATE,,,en,2,,,,,,
-Nashik,Nashik,NORP,,,en,2,,,,,,
-Last week,Last week,DATE,,,en,2,,,,,,
-worst seasons in,worst seasons in,DATE,,,en,2,,,,,,
-recent years,recent years,DATE,,,en,2,,,,,,
-Indian,Indian,NORP,,,en,2,,,,,,
-May,May,DATE,,,en,2,,,,,,
-thousands,thousands,CARDINAL,,,en,2,,,,,,
-Nineties,Nineties,DATE,,,en,2,,,,,,
-daily,daily,DATE,,,en,2,,,,,,
-40 million,40 million,CARDINAL,,,en,2,,,,,,
-over 40 million,over 40 million,CARDINAL,,,en,2,,,,,,
-winter,winter,DATE,,,en,2,,,,,,
-Nov 13,Nov 13,DATE,,,en,2,,,,,,
-Eighteen-year-old,Eighteen-year-old,DATE,,,en,2,,,,,,
-Spherical Cocoon Havens,Spherical Cocoon Havens,PRODUCT,,,en,2,,,,,,
-millions,millions,CARDINAL,,,en,2,,,,,,
-the past two years,the past two years,DATE,,,en,2,,,,,,
-2 years,2 years,DATE,,,en,2,,,,,,
-Balinese,Balinese,NORP,,,en,2,,,,,,
-earlier this week,earlier this week,DATE,,,en,2,,,,,,
-over 5 cm,over 5 cm,QUANTITY,,,en,2,,,,,,
-75%,75%,PERCENT,,,en,2,,,,,,
-Manipur,Manipur,FAC,,,en,1,,,,,,
-4:25 p.m.,4:25 p.m.,TIME,,,en,1,,,,,,
-Monday afternoon,Monday afternoon,TIME,,,en,1,,,,,,
-Spanish,Spanish,NORP,,,en,1,,,,,,
-Oct. 30,Oct. 30,DATE,,,en,1,,,,,,
-Two,Two,CARDINAL,,,en,1,,,,,,
-The 1800s,The 1800s,DATE,,,en,1,,,,,,
-The South American,The South American,LAW,,,en,1,,,,,,
-Thursdays,Thursdays,DATE,,,en,1,,,,,,
-the day,the day,DATE,,,en,1,,,,,,
-Odishas,Odishas,NORP,,,en,1,,,,,,
-Indias,Indias,NORP,0.21666666666666665,0.25833333333333336,en,1,,,,,,
-These days,These days,DATE,,,en,1,,,,,,
-22 KM,22 KM,QUANTITY,,,en,1,,,,,,
-million,million,CARDINAL,,,en,1,,,,,,
-Only 100 Days,Only 100 Days,DATE,,,en,1,,,,,,
-2026 Winter,2026 Winter,TIME,,,en,1,,,,,,
-Olympics,Olympics,EVENT,,,en,1,,,,,,
-"February 6, 2026","February 6, 2026",DATE,,,en,1,,,,,,
-Nucleic Acid Test,Nucleic Acid Test,PRODUCT,,,en,1,,,,,,
-Winter Games,Winter Games,EVENT,,,en,1,,,,,,
-two decades,two decades,DATE,,,en,1,,,,,,
-FEBRUARY 6,FEBRUARY 6,DATE,,,en,1,,,,,,
-weeks,weeks,DATE,,,en,1,,,,,,
-Chaibasa hospital,Chaibasa hospital,FAC,,,en,1,,,,,,
-2026,2026,DATE,,,en,1,,,,,,
-Winter Olympic Game,Winter Olympic Game,EVENT,,,en,1,,,,,,
-39,39,CARDINAL,,,en,1,,,,,,
-37,37,CARDINAL,,,en,1,,,,,,
-the Olympia delle Tofane,the Olympia delle Tofane,FAC,,,en,1,,,,,,
-$3.06 Billion,$3.06 Billion,MONEY,,,en,1,,,,,,
-25th,25th,ORDINAL,,,en,1,,,,,,
-French,French,NORP,,,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+2025,2025,DATE,,,en,6.699999999999999
+first,first,ORDINAL,,,en,6.0
+Thursday,Thursday,DATE,,,en,4.6
+2030,2030,DATE,,,en,3.5999999999999996
+three,three,CARDINAL,,,en,2.9000000000000004
+second,second,ORDINAL,,,en,2.1
+2,2,CARDINAL,,,en,2.1
+the Women's World Cup,the Women's World Cup,EVENT,,,en,2.0
+Indian,Indian,NORP,,,en,2.0
+the Air Itam Dam,the Air Itam Dam,FAC,,,en,2.0
+the Bukit Merah Dam,the Bukit Merah Dam,FAC,,,en,2.0
+just 10,just 10,CARDINAL,,,en,2.0
+years,years,DATE,,,en,2.0
+one,one,CARDINAL,,,en,1.9000000000000006
+Türkiye,Türkiye,NORP,0.5,1.0,en,1.9
+annual,annual,DATE,,,en,1.8
+Oct 13–18,Oct 13–18,DATE,,,en,1.8
+October 12,October 12,DATE,,,en,1.8
+Nov 13,Nov 13,DATE,,,en,1.8
+This weekend,This weekend,DATE,,,en,1.7
+today,today,DATE,,,en,1.4000000000000004
+five,five,CARDINAL,,,en,1.4000000000000004
+Himalayas,Himalayas,NORP,,,en,1.4
+At Least 14,At Least 14,CARDINAL,,,en,1.3000000000000003
+Thanksgiving,Thanksgiving,DATE,,,en,1.3000000000000003
+November 1,November 1,DATE,,,en,1.3000000000000003
+Italian,Italian,NORP,,,en,1.3000000000000003
+Tuesday,Tuesday,DATE,,,en,1.2000000000000002
+80%,80%,PERCENT,,,en,1.2000000000000002
+African,African,NORP,,,en,1.2000000000000002
+One,One,CARDINAL,,,en,1.2000000000000002
+this week,this week,DATE,,,en,1.2000000000000002
+Nineties,Nineties,DATE,,,en,1.1
+third,third,ORDINAL,,,en,1.1
+worst seasons in,worst seasons in,DATE,,,en,1.1
+tomorrow,tomorrow,DATE,,,en,1.1
+25,25,CARDINAL,,,en,1.1
+This week,This week,DATE,,,en,1.1
+Nashik,Nashik,NORP,,,en,1.1
+daily,daily,DATE,,,en,1.1
+four,four,CARDINAL,,,en,1.1
+10,10,CARDINAL,,,en,1.1
+Balinese,Balinese,NORP,,,en,1.1
+1978,1978,DATE,,,en,1.1
+Proposition 4,Proposition 4,LAW,,,en,1.1
+October,October,DATE,,,en,1.1
+Eighteen-year-old,Eighteen-year-old,DATE,,,en,1.1
+Samba,Samba,WORK_OF_ART,,,en,1.1
+about 1845 to 1852,about 1845 to 1852,DATE,,,en,1.1
+thousands,thousands,CARDINAL,,,en,1.1
+Thai,Thai,NORP,,,en,1.1
+3,3,CARDINAL,,,en,1.1
+2.5,2.5,CARDINAL,,,en,1.1
+North American,North American,NORP,,,en,1.1
+an hour,an hour,TIME,,,en,1.1
+Last week,Last week,DATE,,,en,1.1
+$20 billion,$20 billion,MONEY,,,en,1.1
+Spherical Cocoon Havens,Spherical Cocoon Havens,PRODUCT,,,en,1.1
+over 5 cm,over 5 cm,QUANTITY,,,en,1.1
+British,British,NORP,,,en,1.1
+75%,75%,PERCENT,,,en,1.1
+2 years,2 years,DATE,,,en,1.1
+Wednesday,Wednesday,DATE,,,en,1.1
+over 40 million,over 40 million,CARDINAL,,,en,1.1
+May,May,DATE,,,en,1.1
+the past two years,the past two years,DATE,,,en,1.1
+American,American,NORP,,,en,1.1
+millions,millions,CARDINAL,,,en,1.1
+2000,2000,DATE,,,en,1.1
+up to 40%,up to 40%,PERCENT,,,en,1.1
+the Year,the Year,DATE,,,en,1.1
+recent years,recent years,DATE,,,en,1.1
+Winter Games,Winter Games,EVENT,,,en,1.0
+Oct. 30,Oct. 30,DATE,,,en,1.0
+The 1800s,The 1800s,DATE,,,en,1.0
+Olympics,Olympics,EVENT,,,en,1.0
+Nucleic Acid Test,Nucleic Acid Test,PRODUCT,,,en,1.0
+Spanish,Spanish,NORP,,,en,1.0
+2026 Winter,2026 Winter,TIME,,,en,1.0
+Only 100 Days,Only 100 Days,DATE,,,en,1.0
+The South American,The South American,LAW,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+nearly four decades,nearly four decades,DATE,,,en,1.0
+4:25 p.m.,4:25 p.m.,TIME,,,en,1.0
+Thursdays,Thursdays,DATE,,,en,1.0
+40 million,40 million,CARDINAL,,,en,1.0
+summer 2026,summer 2026,DATE,,,en,1.0
+Odishas,Odishas,NORP,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+the Olympia delle Tofane,the Olympia delle Tofane,FAC,,,en,1.0
+two decades,two decades,DATE,,,en,1.0
+the day,the day,DATE,,,en,1.0
+FEBRUARY 6,FEBRUARY 6,DATE,,,en,1.0
+million,million,CARDINAL,,,en,1.0
+These days,These days,DATE,,,en,1.0
+22 KM,22 KM,QUANTITY,,,en,1.0
+2026,2026,DATE,,,en,1.0
+Indias,Indias,NORP,0.21666666666666665,0.25833333333333336,en,1.0
+Winter Olympic Game,Winter Olympic Game,EVENT,,,en,1.0
+Chaibasa hospital,Chaibasa hospital,FAC,,,en,1.0
+39,39,CARDINAL,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+"February 6, 2026","February 6, 2026",DATE,,,en,1.0
+Monday afternoon,Monday afternoon,TIME,,,en,1.0
+Manipur,Manipur,FAC,,,en,1.0
+this harvest season,this harvest season,DATE,,,en,1.0
+25th,25th,ORDINAL,,,en,1.0
+The Hour of the Predator: Encounters,The Hour of the Predator: Encounters,WORK_OF_ART,,,en,1.0
 "Abstract
 ","Abstract
-",WORK_OF_ART,,,en,1,,,,,,
-+40763 chars,+40763 chars,WORK_OF_ART,,,en,1,,,,,,
-the next two decades,the next two decades,DATE,,,en,1,,,,,,
-7 billion,7 billion,CARDINAL,,,en,1,,,,,,
-hundred,hundred,CARDINAL,,,en,1,,,,,,
-Week,Week,DATE,,,en,1,,,,,,
-#45 2025,#45 2025,MONEY,,,en,1,,,,,,
-6 November 2025,6 November 2025,DATE,,,en,1,,,,,,
-the Week,the Week,DATE,,,en,1,,,,,,
-1985,1985,DATE,,,en,1,,,,,,
-The Miracle Year,The Miracle Year,EVENT,,,en,1,,,,,,
-almost 40 years,almost 40 years,DATE,,,en,1,,,,,,
-The Hour of the Predator: Encounters,The Hour of the Predator: Encounters,WORK_OF_ART,,,en,1,,,,,,
-"₹14,260 crore","₹14,260 crore",MONEY,,,en,1,,,,,,
-20152023,20152023,CARDINAL,,,en,1,,,,,,
-2025 Brazil Cup,2025 Brazil Cup,EVENT,,,en,1,,,,,,
-the end of October,the end of October,DATE,,,en,1,,,,,,
-tens of billions of dollars,tens of billions of dollars,MONEY,,,en,1,,,,,,
-Intaaya Retreat,Intaaya Retreat,FAC,,,en,1,,,,,,
-7/10,7/10,CARDINAL,,,en,1,,,,,,
-the Egina Gold Camp,the Egina Gold Camp,EVENT,,,en,1,,,,,,
-1.3 x 2.5 km,1.3 x 2.5 km,QUANTITY,,,en,1,,,,,,
-Roblox,Roblox,PRODUCT,,,en,1,,,,,,
-only one,only one,CARDINAL,,,en,1,,,,,,
-'Solar on Track','Solar on Track',WORK_OF_ART,,,en,1,,,,,,
-up to 70 kilometers,up to 70 kilometers,QUANTITY,,,en,1,,,,,,
-centuries,centuries,DATE,,,en,1,,,,,,
-Host Thanksgiving,Host Thanksgiving,EVENT,,,en,1,,,,,,
-+4848,+4848,NORP,,,en,1,,,,,,
-the coming days,the coming days,DATE,,,en,1,,,,,,
-the 25 years,the 25 years,DATE,,,en,1,,,,,,
-1968,1968,DATE,,,en,1,,,,,,
-Foundation Day,Foundation Day,EVENT,,,en,1,,,,,,
-51 acres,51 acres,QUANTITY,,,en,1,,,,,,
-Rs 324 crore,Rs 324 crore,MONEY,,,en,1,,,,,,
-Marsala overlooking,Marsala overlooking,FAC,,,en,1,,,,,,
-+1996,+1996,NORP,,,en,1,,,,,,
-97%,97%,PERCENT,,,en,1,,,,,,
-November 3,November 3,DATE,,,en,1,,,,,,
-16-Bit,16-Bit,CARDINAL,,,en,1,,,,,,
-16x16,16x16,CARDINAL,,,en,1,,,,,,
-"85,000","85,000",CARDINAL,,,en,1,,,,,,
-"100,000","100,000",CARDINAL,,,en,1,,,,,,
-this harvest season,this harvest season,DATE,,,en,1,,,,,,
-nearly four decades,nearly four decades,DATE,,,en,1,,,,,,
-USD 3.06 billion,USD 3.06 billion,MONEY,,,en,1,,,,,,
-USD 1.70 billion,USD 1.70 billion,MONEY,,,en,1,,,,,,
-12.4%,12.4%,PERCENT,,,en,1,,,,,,
-Nov. 04,Nov. 04,DATE,,,en,1,,,,,,
-2.6,2.6,CARDINAL,,,en,1,,,,,,
-Oct 24,Oct 24,DATE,,,en,1,,,,,,
-Nov 4,Nov 4,DATE,,,en,1,,,,,,
-445.3mm,445.3mm,QUANTITY,,,en,1,,,,,,
-The last month of spring,The last month of spring,DATE,,,en,1,,,,,,
-balmy nights,balmy nights,DATE,,,en,1,,,,,,
-summer 2026,summer 2026,DATE,,,en,1,,,,,,
-2025-10-06,2025-10-06,DATE,,,en,1,,,,,,
-European,European,NORP,,,en,1,,,,,,
-+5854 chars,+5854 chars,WORK_OF_ART,,,en,1,,,,,,
-English,English,NORP,,,en,1,,,,,,
-summer,summer,DATE,,,en,1,,,,,,
-last year,last year,DATE,,,en,1,,,,,,
-45,45,CARDINAL,,,en,1,,,,,,
-September 15 to September 27,September 15 to September 27,DATE,,,en,1,,,,,,
-22,22,CARDINAL,,,en,1,,,,,,
-80 per cent,80 per cent,MONEY,,,en,1,,,,,,
-the last year,the last year,DATE,,,en,1,,,,,,
-10/15-10/21,10/15-10/21,CARDINAL,,,en,1,,,,,,
-weekly,weekly,DATE,,,en,1,,,,,,
-this evening,this evening,TIME,,,en,1,,,,,,
-Predicts Thanksgiving Weather for 2025,Predicts Thanksgiving Weather for 2025,WORK_OF_ART,,,en,1,,,,,,
-2019,2019,DATE,,,en,1,,,,,,
-more than four,more than four,CARDINAL,,,en,1,,,,,,
-+16569,+16569,NORP,,,en,1,,,,,,
-Romans,Romans,NORP,,,en,1,,,,,,
-79,79,CARDINAL,,,en,1,,,,,,
-two,two,CARDINAL,,,en,1,,,,,,
-a couple hundred,a couple hundred,CARDINAL,,,en,1,,,,,,
-Mount Vesuvius,Mount Vesuvius,FAC,-0.06666666666666667,0.5666666666666667,en,1,,,,,,
-+15392,+15392,NORP,,,en,1,,,,,,
-Himalayan,Himalayan,NORP,,,en,1,,,,,,
-Untappd,Untappd,FAC,,,en,1,,,,,,
-1843,1843,DATE,,,en,1,,,,,,
-"100,000x","100,000x",CARDINAL,,,en,1,,,,,,
-Eight years,Eight years,DATE,,,en,1,,,,,,
-Year,Year,DATE,,,en,1,,,,,,
-Going Digital Awards,Going Digital Awards,EVENT,,,en,1,,,,,,
-Syllad |,Syllad |,WORK_OF_ART,,,en,1,,,,,,
-the JN Stadium,the JN Stadium,FAC,,,en,1,,,,,,
-late Monday,late Monday,DATE,,,en,1,,,,,,
-'day,'day,DATE,,,en,1,,,,,,
-Three-quarters,Three-quarters,DATE,,,en,1,,,,,,
-this century,this century,DATE,,,en,1,,,,,,
-Almost three-quarters,Almost three-quarters,CARDINAL,,,en,1,,,,,,
-2100,2100,CARDINAL,,,en,1,,,,,,
-a third,a third,CARDINAL,,,en,1,,,,,,
-Oct 18,Oct 18,DATE,,,en,1,,,,,,
-30–40 km,30–40 km,QUANTITY,,,en,1,,,,,,
-"Oct 14, 2025","Oct 14, 2025",DATE,,,en,1,,,,,,
-Ten,Ten,CARDINAL,,,en,1,,,,,,
-the year,the year,DATE,,,en,1,,,,,,
-40%,40%,PERCENT,,,en,1,,,,,,
-I Want to See If People Are Still Interested,I Want to See If People Are Still Interested,WORK_OF_ART,,,en,1,,,,,,
-last week,last week,DATE,,,en,1,,,,,,
-next year,next year,DATE,,,en,1,,,,,,
-1992,1992,DATE,,,en,1,,,,,,
-Oct. 15,Oct. 15,DATE,,,en,1,,,,,,
-overnight,overnight,TIME,,,en,1,,,,,,
-Flood Action Week,Flood Action Week,EVENT,,,en,1,,,,,,
-13 19 October,13 19 October,DATE,,,en,1,,,,,,
-+2242,+2242,CARDINAL,,,en,1,,,,,,
-+7647 chars,+7647 chars,WORK_OF_ART,,,en,1,,,,,,
-a second straight day,a second straight day,DATE,,,en,1,,,,,,
-the days,the days,DATE,,,en,1,,,,,,
-Hurricane Harvey,Hurricane Harvey,EVENT,,,en,1,,,,,,
-2017,2017,DATE,,,en,1,,,,,,
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1,,,,,,
-just a few hours,just a few hours,TIME,,,en,1,,,,,,
-38,38,CARDINAL,,,en,1,,,,,,
-38 degrees,38 degrees,QUANTITY,,,en,1,,,,,,
-Cameroonian,Cameroonian,NORP,,,en,1,,,,,,
-1,1,CARDINAL,,,en,1,,,,,,
-6,6,CARDINAL,,,en,1,,,,,,
-04:00:13,04:00:13,PRODUCT,,,en,1,,,,,,
-$388 billion,$388 billion,MONEY,,,en,1,,,,,,
-Pixies,Pixies,PRODUCT,,,en,1,,,,,,
-Nirvana,Nirvana,PRODUCT,,,en,1,,,,,,
-20,20,CARDINAL,,,en,1,,,,,,
-Holcim Foundation Awards,Holcim Foundation Awards,EVENT,,,en,1,,,,,,
-Four,Four,CARDINAL,,,en,1,,,,,,
-| October 28,| October 28,DATE,,,en,1,,,,,,
-13 minutes,13 minutes,TIME,,,en,1,,,,,,
-Levantine Arabic,Levantine Arabic,NORP,,,en,1,,,,,,
-15 years,15 years,DATE,,,en,1,,,,,,
-4.5 lakh,4.5 lakh,MONEY,,,en,1,,,,,,
-about 4.5 lakh hectares,about 4.5 lakh hectares,QUANTITY,,,en,1,,,,,,
-October 24,October 24,DATE,,,en,1,,,,,,
-2.74 per cent,2.74 per cent,MONEY,,,en,1,,,,,,
-same period last years,same period last years,DATE,,,en,1,,,,,,
-4.38 lakh,4.38 lakh,MONEY,,,en,1,,,,,,
-900 square kilometres,900 square kilometres,QUANTITY,,,en,1,,,,,,
-Nearly 900 square kilometres,Nearly 900 square kilometres,QUANTITY,,,en,1,,,,,,
-19 lakh,19 lakh,CARDINAL,,,en,1,,,,,,
-Air Itam Dam,Air Itam Dam,FAC,,,en,1,,,,,,
-Bengalis,Bengalis,NORP,,,en,1,,,,,,
-Sept,Sept,DATE,,,en,1,,,,,,
-"Sept. 23, days","Sept. 23, days",DATE,,,en,1,,,,,,
-nearly six,nearly six,CARDINAL,,,en,1,,,,,,
-September,September,DATE,,,en,1,,,,,,
-+2094 chars,+2094 chars,WORK_OF_ART,,,en,1,,,,,,
-the recent past,the recent past,DATE,,,en,1,,,,,,
-4,4,CARDINAL,,,en,1,,,,,,
-The Golden Compasswas,The Golden Compasswas,WORK_OF_ART,,,en,1,,,,,,
-1995,1995,DATE,,,en,1,,,,,,
-two years,two years,DATE,,,en,1,,,,,,
-40,40,CARDINAL,,,en,1,,,,,,
-"2,160","2,160",CARDINAL,,,en,1,,,,,,
-October 23,October 23,DATE,,,en,1,,,,,,
-this month,this month,DATE,,,en,1,,,,,,
-50km,50km,QUANTITY,,,en,1,,,,,,
-+5759 chars,+5759 chars,WORK_OF_ART,,,en,1,,,,,,
-More than a century ago,More than a century ago,DATE,,,en,1,,,,,,
-Edmontosaurus,Edmontosaurus,PRODUCT,,,en,1,,,,,,
-"4,000 years","4,000 years",DATE,,,en,1,,,,,,
-"the past 4,000 years","the past 4,000 years",DATE,,,en,1,,,,,,
-nine years,nine years,DATE,,,en,1,,,,,,
-10:30 a.m.,10:30 a.m.,TIME,,,en,1,,,,,,
-Dozens,Dozens,CARDINAL,,,en,1,,,,,,
-ten,ten,CARDINAL,,,en,1,,,,,,
-2024,2024,DATE,,,en,1,,,,,,
-This month,This month,DATE,,,en,1,,,,,,
-A Guardian and a Thief,A Guardian and a Thief,WORK_OF_ART,,,en,1,,,,,,
-March next year,March next year,DATE,,,en,1,,,,,,
+",WORK_OF_ART,,,en,1.0
+the next two decades,the next two decades,DATE,,,en,1.0
+7 billion,7 billion,CARDINAL,,,en,1.0
+hundred,hundred,CARDINAL,,,en,1.0
+Week,Week,DATE,,,en,1.0
+#45 2025,#45 2025,MONEY,,,en,1.0
+6 November 2025,6 November 2025,DATE,,,en,1.0
+the Week,the Week,DATE,,,en,1.0
+1985,1985,DATE,,,en,1.0
+The Miracle Year,The Miracle Year,EVENT,,,en,1.0
+almost 40 years,almost 40 years,DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+20152023,20152023,CARDINAL,,,en,1.0
++40763 chars,+40763 chars,WORK_OF_ART,,,en,1.0
+2025 Brazil Cup,2025 Brazil Cup,EVENT,,,en,1.0
+the end of October,the end of October,DATE,,,en,1.0
+tens of billions of dollars,tens of billions of dollars,MONEY,,,en,1.0
+Intaaya Retreat,Intaaya Retreat,FAC,,,en,1.0
+7/10,7/10,CARDINAL,,,en,1.0
+the Egina Gold Camp,the Egina Gold Camp,EVENT,,,en,1.0
+1.3 x 2.5 km,1.3 x 2.5 km,QUANTITY,,,en,1.0
+Roblox,Roblox,PRODUCT,,,en,1.0
+only one,only one,CARDINAL,,,en,1.0
+'Solar on Track','Solar on Track',WORK_OF_ART,,,en,1.0
+up to 70 kilometers,up to 70 kilometers,QUANTITY,,,en,1.0
+March next year,March next year,DATE,,,en,1.0
+centuries,centuries,DATE,,,en,1.0
+Host Thanksgiving,Host Thanksgiving,EVENT,,,en,1.0
+"₹14,260 crore","₹14,260 crore",MONEY,,,en,1.0
+"100,000","100,000",CARDINAL,,,en,1.0
+the 25 years,the 25 years,DATE,,,en,1.0
+1968,1968,DATE,,,en,1.0
+Foundation Day,Foundation Day,EVENT,,,en,1.0
+51 acres,51 acres,QUANTITY,,,en,1.0
+Rs 324 crore,Rs 324 crore,MONEY,,,en,1.0
+Marsala overlooking,Marsala overlooking,FAC,,,en,1.0
++1996,+1996,NORP,,,en,1.0
+97%,97%,PERCENT,,,en,1.0
+November 3,November 3,DATE,,,en,1.0
+16-Bit,16-Bit,CARDINAL,,,en,1.0
+16x16,16x16,CARDINAL,,,en,1.0
+"85,000","85,000",CARDINAL,,,en,1.0
+more than four,more than four,CARDINAL,,,en,1.0
++4848,+4848,NORP,,,en,1.0
+$3.06 Billion,$3.06 Billion,MONEY,,,en,1.0
+USD 3.06 billion,USD 3.06 billion,MONEY,,,en,1.0
+USD 1.70 billion,USD 1.70 billion,MONEY,,,en,1.0
+12.4%,12.4%,PERCENT,,,en,1.0
+Nov. 04,Nov. 04,DATE,,,en,1.0
+2.6,2.6,CARDINAL,,,en,1.0
+Oct 24,Oct 24,DATE,,,en,1.0
+Nov 4,Nov 4,DATE,,,en,1.0
+445.3mm,445.3mm,QUANTITY,,,en,1.0
+The last month of spring,The last month of spring,DATE,,,en,1.0
+balmy nights,balmy nights,DATE,,,en,1.0
+the coming days,the coming days,DATE,,,en,1.0
+European,European,NORP,,,en,1.0
+2025-10-06,2025-10-06,DATE,,,en,1.0
+19 lakh,19 lakh,CARDINAL,,,en,1.0
+this evening,this evening,TIME,,,en,1.0
+Going Digital Awards,Going Digital Awards,EVENT,,,en,1.0
+Year,Year,DATE,,,en,1.0
+English,English,NORP,,,en,1.0
+summer,summer,DATE,,,en,1.0
+last year,last year,DATE,,,en,1.0
+45,45,CARDINAL,,,en,1.0
+September 15 to September 27,September 15 to September 27,DATE,,,en,1.0
+22,22,CARDINAL,,,en,1.0
+80 per cent,80 per cent,MONEY,,,en,1.0
+the last year,the last year,DATE,,,en,1.0
+10/15-10/21,10/15-10/21,CARDINAL,,,en,1.0
+weekly,weekly,DATE,,,en,1.0
+Predicts Thanksgiving Weather for 2025,Predicts Thanksgiving Weather for 2025,WORK_OF_ART,,,en,1.0
+the JN Stadium,the JN Stadium,FAC,,,en,1.0
++5854 chars,+5854 chars,WORK_OF_ART,,,en,1.0
+2019,2019,DATE,,,en,1.0
++16569,+16569,NORP,,,en,1.0
+Romans,Romans,NORP,,,en,1.0
+79,79,CARDINAL,,,en,1.0
+two,two,CARDINAL,,,en,1.0
+a couple hundred,a couple hundred,CARDINAL,,,en,1.0
+Mount Vesuvius,Mount Vesuvius,FAC,-0.06666666666666667,0.5666666666666667,en,1.0
++15392,+15392,NORP,,,en,1.0
+Himalayan,Himalayan,NORP,,,en,1.0
+Untappd,Untappd,FAC,,,en,1.0
+1843,1843,DATE,,,en,1.0
+Syllad |,Syllad |,WORK_OF_ART,,,en,1.0
+the days,the days,DATE,,,en,1.0
+Nearly 900 square kilometres,Nearly 900 square kilometres,QUANTITY,,,en,1.0
+Ten,Ten,CARDINAL,,,en,1.0
+winter,winter,DATE,,,en,1.0
+late Monday,late Monday,DATE,,,en,1.0
+'day,'day,DATE,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+Three-quarters,Three-quarters,DATE,,,en,1.0
+this century,this century,DATE,,,en,1.0
+Almost three-quarters,Almost three-quarters,CARDINAL,,,en,1.0
+2100,2100,CARDINAL,,,en,1.0
+a third,a third,CARDINAL,,,en,1.0
+Oct 18,Oct 18,DATE,,,en,1.0
+30–40 km,30–40 km,QUANTITY,,,en,1.0
+"Oct 14, 2025","Oct 14, 2025",DATE,,,en,1.0
+the year,the year,DATE,,,en,1.0
+a second straight day,a second straight day,DATE,,,en,1.0
+40%,40%,PERCENT,,,en,1.0
+I Want to See If People Are Still Interested,I Want to See If People Are Still Interested,WORK_OF_ART,,,en,1.0
+last week,last week,DATE,,,en,1.0
+next year,next year,DATE,,,en,1.0
+1992,1992,DATE,,,en,1.0
+Oct. 15,Oct. 15,DATE,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
+earlier this week,earlier this week,DATE,,,en,1.0
+Flood Action Week,Flood Action Week,EVENT,,,en,1.0
+13 19 October,13 19 October,DATE,,,en,1.0
++2242,+2242,CARDINAL,,,en,1.0
++7647 chars,+7647 chars,WORK_OF_ART,,,en,1.0
+"100,000x","100,000x",CARDINAL,,,en,1.0
+Eight years,Eight years,DATE,,,en,1.0
+Hurricane Harvey,Hurricane Harvey,EVENT,,,en,1.0
+20,20,CARDINAL,,,en,1.0
+Bengalis,Bengalis,NORP,,,en,1.0
+just a few hours,just a few hours,TIME,,,en,1.0
+Air Itam Dam,Air Itam Dam,FAC,,,en,1.0
+38,38,CARDINAL,,,en,1.0
+38 degrees,38 degrees,QUANTITY,,,en,1.0
+Cameroonian,Cameroonian,NORP,,,en,1.0
+1,1,CARDINAL,,,en,1.0
+6,6,CARDINAL,,,en,1.0
+04:00:13,04:00:13,PRODUCT,,,en,1.0
+$388 billion,$388 billion,MONEY,,,en,1.0
+Pixies,Pixies,PRODUCT,,,en,1.0
+Nirvana,Nirvana,PRODUCT,,,en,1.0
+Holcim Foundation Awards,Holcim Foundation Awards,EVENT,,,en,1.0
+2017,2017,DATE,,,en,1.0
+Four,Four,CARDINAL,,,en,1.0
+| October 28,| October 28,DATE,,,en,1.0
+13 minutes,13 minutes,TIME,,,en,1.0
+Levantine Arabic,Levantine Arabic,NORP,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+4.5 lakh,4.5 lakh,MONEY,,,en,1.0
+about 4.5 lakh hectares,about 4.5 lakh hectares,QUANTITY,,,en,1.0
+October 24,October 24,DATE,,,en,1.0
+2.74 per cent,2.74 per cent,MONEY,,,en,1.0
+same period last years,same period last years,DATE,,,en,1.0
+4.38 lakh,4.38 lakh,MONEY,,,en,1.0
+900 square kilometres,900 square kilometres,QUANTITY,,,en,1.0
+"Sept. 23, days","Sept. 23, days",DATE,,,en,1.0
+A Guardian and a Thief,A Guardian and a Thief,WORK_OF_ART,,,en,1.0
+This month,This month,DATE,,,en,1.0
+2024,2024,DATE,,,en,1.0
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.0
+Sept,Sept,DATE,,,en,1.0
+nearly six,nearly six,CARDINAL,,,en,1.0
+September,September,DATE,,,en,1.0
++2094 chars,+2094 chars,WORK_OF_ART,,,en,1.0
+Sunday,Sunday,DATE,,,en,1.0
+the recent past,the recent past,DATE,,,en,1.0
+4,4,CARDINAL,,,en,1.0
+The Golden Compasswas,The Golden Compasswas,WORK_OF_ART,,,en,1.0
+1995,1995,DATE,,,en,1.0
+two years,two years,DATE,,,en,1.0
+40,40,CARDINAL,,,en,1.0
+"2,160","2,160",CARDINAL,,,en,1.0
+October 23,October 23,DATE,,,en,1.0
+this month,this month,DATE,,,en,1.0
+50km,50km,QUANTITY,,,en,1.0
++5759 chars,+5759 chars,WORK_OF_ART,,,en,1.0
+More than a century ago,More than a century ago,DATE,,,en,1.0
+Edmontosaurus,Edmontosaurus,PRODUCT,,,en,1.0
+"4,000 years","4,000 years",DATE,,,en,1.0
+"the past 4,000 years","the past 4,000 years",DATE,,,en,1.0
+nine years,nine years,DATE,,,en,1.0
+10:30 a.m.,10:30 a.m.,TIME,,,en,1.0
+Dozens,Dozens,CARDINAL,,,en,1.0
+ten,ten,CARDINAL,,,en,1.0
+'Varanasi'IND vs SA,'Varanasi'IND vs SA,WORK_OF_ART,,,en,1.0

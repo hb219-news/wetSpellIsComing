@@ -1,178 +1,183 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Bengaluru,Bengaluru,ORG,0.0759469696969697,0.25246212121212125,en,6,,,,,,
-CSHT,CSHT,ORG,0.0625,0.0,en,4,,,,,,
-Kansas City Chiefs,Kansas City Chiefs,ORG,-0.23888888888888887,0.29444444444444445,en,4,,,,,,
-Bentley,Bentley,ORG,0.0,0.6666666666666666,en,3,,,,,,
-Trump,Trump,ORG,0.03888888888888889,0.17777777777777778,en,3,,,,,,
-IMD,IMD,ORG,0.016666666666666663,0.08333333333333333,en,3,,,,,,
-Kroger,Kroger,ORG,0.05833333333333333,0.15833333333333335,en,3,,,,,,
-Studio Gang,Studio Gang,ORG,0.022222222222222216,0.14166666666666664,en,3,,,,,,
-IHCL,IHCL,ORG,0.3333333333333333,0.3333333333333333,en,3,,,,,,
-Yaoundé,Yaoundé,ORG,-0.013888888888888893,0.20222222222222222,en,3,,,,,,
-Tomdispatch.com,Tomdispatch.com,ORG,0.0,0.05,en,2,,,,,,
-Bentley Systems,Bentley Systems,ORG,0.0,0.5,en,2,,,,,,
-FIL BLU,FIL BLU,ORG,-0.11666666666666667,0.125,en,2,,,,,,
-Indian Hotels Company,Indian Hotels Company,ORG,0.5,0.25,en,2,,,,,,
-NMPA,NMPA,ORG,0.06818181818181818,0.22727272727272727,en,2,,,,,,
-Navi Mumbai,Navi Mumbai,ORG,-0.06666666666666667,0.39999999999999997,en,2,,,,,,
-SNMMCH,SNMMCH,ORG,0.0,0.0,en,2,,,,,,
-The Senate Finance Committee,The Senate Finance Committee,ORG,0.0,0.05,en,2,,,,,,
-Health and Human Services,Health and Human Services,ORG,0.0,0.05,en,2,,,,,,
-FDNY,FDNY,ORG,-0.2,0.0,en,2,,,,,,
-National League,National League,ORG,-0.125,0.1875,en,2,,,,,,
-Dhanbad,Dhanbad,ORG,0.0,0.0,en,2,,,,,,
-Netflix,Netflix,ORG,0.325,0.3125,en,2,,,,,,
-CSIRO,CSIRO,ORG,0.037500000000000006,0.25625,en,2,,,,,,
-District Magistrate,District Magistrate,ORG,0.037500000000000006,0.1875,en,2,,,,,,
-DM,DM,ORG,0.037500000000000006,0.1875,en,2,,,,,,
-Scunthorpe United,Scunthorpe United,ORG,-0.125,0.1875,en,2,,,,,,
-Reuters,Reuters,ORG,0.02,0.06,en,2,,,,,,
-Ya’aburnee,Ya’aburnee,ORG,0.2333333333333333,0.3166666666666667,en,2,,,,,,
-UCLA,UCLA,ORG,0.03333333333333333,0.15,en,2,,,,,,
-SoCal,SoCal,ORG,0.0,0.0,en,2,,,,,,
-NCRTC,NCRTC,ORG,0.20606060606060606,0.197979797979798,en,2,,,,,,
-Harvard,Harvard,ORG,0.016666666666666663,0.09583333333333333,en,2,,,,,,
-Harvard University,Harvard University,ORG,0.033333333333333326,0.09583333333333333,en,2,,,,,,
-Manipur,Manipur,ORG,-0.2,0.0,en,2,,,,,,
-Plate Group,Plate Group,ORG,0.01666666666666667,0.08333333333333333,en,2,,,,,,
-Weekly Coffee News,Weekly Coffee News,ORG,0.5681818181818181,0.45,en,2,,,,,,
-Pengurusan Air Selangor Sdn Bhd (,Pengurusan Air Selangor Sdn Bhd (,ORG,0.21944444444444444,0.2,en,2,,,,,,
-The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,2,,,,,,
-UKNA,UKNA,ORG,-0.1,0.0,en,2,,,,,,
-the Museum Ehrhardt,the Museum Ehrhardt,ORG,0.16944444444444443,0.09999999999999999,en,2,,,,,,
-Kéré Architecture,Kéré Architecture,ORG,0.16944444444444443,0.09999999999999999,en,2,,,,,,
-The Office,The Office,ORG,0.21875,0.23750000000000002,en,2,,,,,,
-Milano Cortina,Milano Cortina,ORG,0.05000000000000002,0.0,en,1,,,,,,
-AUKH,AUKH,ORG,0.0,0.0,en,1,,,,,,
-NYPD,NYPD,ORG,-0.2,0.0,en,1,,,,,,
-J&K,J&K,ORG,0.0,0.0,en,1,,,,,,
-Sukkot,Sukkot,ORG,0.0,0.0,en,1,,,,,,
-DM Samba,DM Samba,ORG,0.025,0.0,en,1,,,,,,
-GMDA,GMDA,ORG,0.0,0.0,en,1,,,,,,
-iPhone,iPhone,ORG,0.6000000000000001,0.0,en,1,,,,,,
-Oppo,Oppo,ORG,0.6000000000000001,0.0,en,1,,,,,,
-STATE TIMES NEWS,STATE TIMES NEWS,ORG,0.037500000000000006,0.0,en,1,,,,,,
-The AI Buildout,The AI Buildout,ORG,0.1,0.0,en,1,,,,,,
-Assembly,Assembly,ORG,-0.08181818181818182,0.0,en,1,,,,,,
-Sponge,Sponge,ORG,0.0,0.0,en,1,,,,,,
-the Danish Veterinary and Food Administration,the Danish Veterinary and Food Administration,ORG,0.06818181818181818,0.0,en,1,,,,,,
-The Milano-Cortina,The Milano-Cortina,ORG,0.0,0.0,en,1,,,,,,
-Legislative Assembly,Legislative Assembly,ORG,-0.009090909090909094,0.0,en,1,,,,,,
-the Danish Veterinary and Food Admin,the Danish Veterinary and Food Admin,ORG,0.0,0.0,en,1,,,,,,
-Pennhurst Asylum,Pennhurst Asylum,ORG,-0.05,0.0,en,1,,,,,,
-G20,G20,ORG,0.3,0.0,en,1,,,,,,
-NWS,NWS,ORG,0.0,0.0,en,1,,,,,,
-Children,Children,ORG,0.25,0.0,en,1,,,,,,
-GatesNotes,GatesNotes,ORG,0.1125,0.0,en,1,,,,,,
-The Irish Times,The Irish Times,ORG,-0.05,0.0,en,1,,,,,,
-Air Selangor,Air Selangor,ORG,-0.1,0.0,en,1,,,,,,
-Basis Bay’s,Basis Bay’s,ORG,-0.1,0.0,en,1,,,,,,
-Eco Green Premium Data Centre,Eco Green Premium Data Centre,ORG,-0.1,0.0,en,1,,,,,,
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.3,0.0,en,1,,,,,,
-Roast Magazine’s,Roast Magazine’s,ORG,0.4,0.0,en,1,,,,,,
-Daily Coffee News,Daily Coffee News,ORG,0.4,0.0,en,1,,,,,,
-Mips,Mips,ORG,0.09375,0.0,en,1,,,,,,
-Prix de Traduction,Prix de Traduction,ORG,-0.05,0.0,en,1,,,,,,
-Sherlock High-Grade Antimony Results,Sherlock High-Grade Antimony Results,ORG,0.14444444444444443,0.0,en,1,,,,,,
-Angerer/,Angerer/,ORG,0.0,0.0,en,1,,,,,,
-The National Capital Region Transport Corporation,The National Capital Region Transport Corporation,ORG,0.0,0.0,en,1,,,,,,
-the Namo Bharat Depot,the Namo Bharat Depot,ORG,0.0,0.0,en,1,,,,,,
-the National Capital Region Transport Corporation,the National Capital Region Transport Corporation,ORG,0.1621212121212121,0.0,en,1,,,,,,
-amber warnings,amber warnings,ORG,-0.2,0.0,en,1,,,,,,
-the Spanish Meteorological Agency,the Spanish Meteorological Agency,ORG,0.07777777777777777,0.0,en,1,,,,,,
-Goldsmith & Baillie Gifford Prizes,Goldsmith & Baillie Gifford Prizes,ORG,-0.05,0.0,en,1,,,,,,
-Write-Time,Write-Time,ORG,-0.05,0.0,en,1,,,,,,
-The Nation,The Nation,ORG,0.25,0.0,en,1,,,,,,
-Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1,,,,,,
-Farming & RPG Asset Pack,Farming & RPG Asset Pack,ORG,0.0,0.0,en,1,,,,,,
-Unity,Unity,ORG,0.10000000000000002,0.0,en,1,,,,,,
-neutro,neutro,ORG,0.04,0.0,en,1,,,,,,
-Upcoming Technologies,Upcoming Technologies,ORG,0.0,0.0,en,1,,,,,,
-Product Launches,Product Launches,ORG,0.0,0.0,en,1,,,,,,
-"Therapy Area, Route of Administration","Therapy Area, Route of Administration",ORG,0.0,0.0,en,1,,,,,,
-"Bennett, Coleman &amp;","Bennett, Coleman &amp;",ORG,0.03333333333333333,0.0,en,1,,,,,,
-WA,WA,ORG,0.0,0.0,en,1,,,,,,
-Storylines Europe,Storylines Europe,ORG,-0.05,0.0,en,1,,,,,,
-beave,beave,ORG,-0.041666666666666664,0.0,en,1,,,,,,
-PLOS Water 4(11,PLOS Water 4(11,ORG,0.0,0.0,en,1,,,,,,
-Rural Devon,Rural Devon,ORG,0.1875,0.0,en,1,,,,,,
-Science New Research,Science New Research,ORG,-0.18181818181818182,0.0,en,1,,,,,,
-the National Academy of Sciences,the National Academy of Sciences,ORG,0.14444444444444443,0.0,en,1,,,,,,
-the National Acad,the National Acad,ORG,0.0,0.0,en,1,,,,,,
-Prix Femina,Prix Femina,ORG,-0.05,0.0,en,1,,,,,,
-CAGR,CAGR,ORG,0.0,0.0,en,1,,,,,,
-first cultural commission,first cultural commission,ORG,0.1722222222222222,0.0,en,1,,,,,,
-Swan Defence and Heavy,Swan Defence and Heavy,ORG,-0.2,0.0,en,1,,,,,,
-Pouyesh Group’s,Pouyesh Group’s,ORG,0.13636363636363635,0.0,en,1,,,,,,
-ThursdayDay,ThursdayDay,ORG,-0.06666666666666667,0.0,en,1,,,,,,
-Bentley Systems Announces Winners,Bentley Systems Announces Winners,ORG,0.0,0.0,en,1,,,,,,
-Founders Honors,Founders Honors,ORG,0.0,0.0,en,1,,,,,,
-Arm & Hammer,Arm & Hammer,ORG,0.6,0.0,en,1,,,,,,
-Arm &amp,Arm &amp,ORG,0.6,0.0,en,1,,,,,,
-Status Orange,Status Orange,ORG,0.0,0.0,en,1,,,,,,
-The Old Farmer's,The Old Farmer's,ORG,0.1,0.0,en,1,,,,,,
-Hearst Magazines,Hearst Magazines,ORG,-0.1,0.0,en,1,,,,,,
-Yahoo,Yahoo,ORG,-0.1,0.0,en,1,,,,,,
-Old Farmer's,Old Farmer's,ORG,0.05,0.0,en,1,,,,,,
-New Mangalore Port Authority,New Mangalore Port Authority,ORG,0.13636363636363635,0.0,en,1,,,,,,
-the New Mangalore Port Authority,the New Mangalore Port Authority,ORG,0.06818181818181818,0.0,en,1,,,,,,
-Permaculture,Permaculture,ORG,0.3,0.0,en,1,,,,,,
-Pompeii,Pompeii,ORG,0.0,0.0,en,1,,,,,,
-Secure State’s,Secure State’s,ORG,0.4,0.0,en,1,,,,,,
-the… Pouyesh Group’s,the… Pouyesh Group’s,ORG,0.13636363636363635,0.0,en,1,,,,,,
-the Environment Agency,the Environment Agency,ORG,0.0,0.0,en,1,,,,,,
-MDL,MDL,ORG,-0.2,0.0,en,1,,,,,,
-Apple Review,Apple Review,ORG,-0.16666666666666666,0.0,en,1,,,,,,
-Indian Mertrological Department's,Indian Mertrological Department's,ORG,0.0,0.0,en,1,,,,,,
-Telangana,Telangana,ORG,0.0,0.0,en,1,,,,,,
-12:37:46,12:37:46,ORG,0.0,0.0,en,1,,,,,,
-Mertrological Department's,Mertrological Department's,ORG,0.0,0.0,en,1,,,,,,
-Nashik,Nashik,ORG,-0.5,0.0,en,1,,,,,,
-the Reunion of Sugar,the Reunion of Sugar,ORG,0.25,0.0,en,1,,,,,,
-Mould,Mould,ORG,0.016233766233766232,0.0,en,1,,,,,,
-Sugar,Sugar,ORG,0.16666666666666666,0.0,en,1,,,,,,
-India Rainwater Harvesting Market Report,India Rainwater Harvesting Market Report,ORG,0.5,0.0,en,1,,,,,,
-Hydrostatics Watertech Consultants,Hydrostatics Watertech Consultants,ORG,0.5,0.0,en,1,,,,,,
-Rainmaxx Solutions,Rainmaxx Solutions,ORG,0.5,0.0,en,1,,,,,,
-EcoWater Systems,EcoWater Systems,ORG,0.5,0.0,en,1,,,,,,
-"The ""India Rainwater Harvesting Market 2025","The ""India Rainwater Harvesting Market 2025",ORG,0.0,0.0,en,1,,,,,,
-ResearchAndMarkets.com,ResearchAndMarkets.com,ORG,0.0,0.0,en,1,,,,,,
-The India Rainwater Harvesting Market,The India Rainwater Harvesting Market,ORG,0.0,0.0,en,1,,,,,,
-LONGVIEW,LONGVIEW,ORG,0.0,0.0,en,1,,,,,,
-Zupan,Zupan,ORG,0.3,0.0,en,1,,,,,,
-Rain-Powered Energy,Rain-Powered Energy,ORG,0.5,0.0,en,1,,,,,,
-Elon Musk's Boring Company,Elon Musk's Boring Company,ORG,-1.0,0.0,en,1,,,,,,
-Holcim Awards,Holcim Awards,ORG,0.5,0.0,en,1,,,,,,
-The Holcim Foundation for Sustainable Construction,The Holcim Foundation for Sustainable Construction,ORG,0.5,0.0,en,1,,,,,,
-Middl,Middl,ORG,0.5,0.0,en,1,,,,,,
-Image © Holcim Foundation,Image © Holcim Foundation,ORG,0.0,0.0,en,1,,,,,,
-The Holcim Foundation,The Holcim Foundation,ORG,0.0,0.0,en,1,,,,,,
-Farmers,Farmers,ORG,0.0625,0.0,en,1,,,,,,
-the Samuel H. Scripps Theater Center,the Samuel H. Scripps Theater Center,ORG,0.018181818181818174,0.0,en,1,,,,,,
-the United Kuki National Army,the United Kuki National Army,ORG,-0.2,0.0,en,1,,,,,,
-Ramachandrappa Layout,Ramachandrappa Layout,ORG,-0.05,0.0,en,1,,,,,,
-Ullal Up,Ullal Up,ORG,-0.05,0.0,en,1,,,,,,
-NAT,NAT,ORG,-0.05,0.0,en,1,,,,,,
-SOP,SOP,ORG,-0.27777777777777773,0.0,en,1,,,,,,
-Investigation Underway,Investigation Underway,ORG,0.0,0.0,en,1,,,,,,
-building33k cr,building33k cr,ORG,0.0,0.0,en,1,,,,,,
-Mazagon Dock Shipbuilding Ltd,Mazagon Dock Shipbuilding Ltd,ORG,-0.2,0.0,en,1,,,,,,
-Holcim Foundation for,Holcim Foundation for,ORG,0.5,0.0,en,1,,,,,,
-the United Nations Office,the United Nations Office,ORG,0.0875,0.0,en,1,,,,,,
-the United Nations Office for Disaster Risk Reduction,the United Nations Office for Disaster Risk Reduction,ORG,0.25,0.0,en,1,,,,,,
-the Lance Formation,the Lance Formation,ORG,0.45,0.0,en,1,,,,,,
-The Conversation,The Conversation,ORG,0.375,0.0,en,1,,,,,,
-Bloomberg,Bloomberg,ORG,0.05,0.0,en,1,,,,,,
-The India Meteorological Department,The India Meteorological Department,ORG,0.0,0.0,en,1,,,,,,
-"Loaves, Fishes, Tree Bark, Seeds","Loaves, Fishes, Tree Bark, Seeds",ORG,0.0,0.0,en,1,,,,,,
-the Sorcerers Stone,the Sorcerers Stone,ORG,0.23333333333333334,0.0,en,1,,,,,,
-Ritz-Carlton,Ritz-Carlton,ORG,0.0,0.0,en,1,,,,,,
-Rutgers University,Rutgers University,ORG,0.14583333333333331,0.0,en,1,,,,,,
-PBAPP,PBAPP,ORG,0.0,0.0,en,1,,,,,,
-Diet,Diet,ORG,0.1875,0.0,en,1,,,,,,
-Perak,Perak,ORG,-0.2,0.0,en,1,,,,,,
-Bukit Merah Dam Releases,Bukit Merah Dam Releases,ORG,-0.2,0.0,en,1,,,,,,
-IPOH,IPOH,ORG,-0.125,0.0,en,1,,,,,,
-Perak water committee,Perak water committee,ORG,0.0,0.0,en,1,,,,,,
-Penang Water Supply Corporation,Penang Water Supply Corporation,ORG,0.0,0.0,en,1,,,,,,
-AEMET,AEMET,ORG,0.07777777777777777,0.0,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Navi Mumbai,Navi Mumbai,ORG,-0.06666666666666667,0.39999999999999997,en,2.0
+Scunthorpe United,Scunthorpe United,ORG,-0.125,0.1875,en,2.0
+FDNY,FDNY,ORG,-0.2,0.0,en,2.0
+National League,National League,ORG,-0.125,0.1875,en,2.0
+Plate Group,Plate Group,ORG,0.01666666666666667,0.08333333333333333,en,2.0
+Kansas City Chiefs,Kansas City Chiefs,ORG,-0.7350427350427349,0.9059829059829059,en,1.3000000000000003
+CSHT,CSHT,ORG,0.19230769230769226,0.0,en,1.3000000000000003
+Bengaluru,Bengaluru,ORG,0.3505244755244754,1.16520979020979,en,1.3000000000000003
+Bentley,Bentley,ORG,0.0,1.6666666666666665,en,1.2000000000000002
+Kroger,Kroger,ORG,0.14583333333333331,0.3958333333333333,en,1.2000000000000002
+IHCL,IHCL,ORG,0.8333333333333333,0.8333333333333333,en,1.2000000000000002
+Studio Gang,Studio Gang,ORG,0.05555555555555553,0.3541666666666666,en,1.2000000000000002
+Yaoundé,Yaoundé,ORG,-0.034722222222222224,0.5055555555555555,en,1.2000000000000002
+Trump,Trump,ORG,0.09722222222222221,0.44444444444444436,en,1.2000000000000002
+NMPA,NMPA,ORG,0.1239669421487603,0.4132231404958677,en,1.1
+Indian Hotels Company,Indian Hotels Company,ORG,0.9090909090909091,0.45454545454545453,en,1.1
+Tomdispatch.com,Tomdispatch.com,ORG,0.0,0.09090909090909091,en,1.1
+FIL BLU,FIL BLU,ORG,-0.2121212121212121,0.22727272727272727,en,1.1
+Reuters,Reuters,ORG,0.03636363636363636,0.10909090909090907,en,1.1
+Bentley Systems,Bentley Systems,ORG,0.0,0.9090909090909091,en,1.1
+Netflix,Netflix,ORG,0.5909090909090908,0.5681818181818181,en,1.1
+DM,DM,ORG,0.06818181818181819,0.3409090909090909,en,1.1
+The Office,The Office,ORG,0.3977272727272727,0.4318181818181818,en,1.1
+the Museum Ehrhardt,the Museum Ehrhardt,ORG,0.308080808080808,0.1818181818181818,en,1.1
+Kéré Architecture,Kéré Architecture,ORG,0.308080808080808,0.1818181818181818,en,1.1
+Dhanbad,Dhanbad,ORG,0.0,0.0,en,1.1
+SNMMCH,SNMMCH,ORG,0.0,0.0,en,1.1
+District Magistrate,District Magistrate,ORG,0.06818181818181819,0.3409090909090909,en,1.1
+NCRTC,NCRTC,ORG,0.37465564738292007,0.35996326905417814,en,1.1
+Manipur,Manipur,ORG,-0.36363636363636365,0.0,en,1.1
+UKNA,UKNA,ORG,-0.18181818181818182,0.0,en,1.1
+Health and Human Services,Health and Human Services,ORG,0.0,0.09090909090909091,en,1.1
+The Senate Finance Committee,The Senate Finance Committee,ORG,0.0,0.09090909090909091,en,1.1
+Weekly Coffee News,Weekly Coffee News,ORG,1.0330578512396693,0.8181818181818181,en,1.1
+Harvard,Harvard,ORG,0.030303030303030293,0.17424242424242423,en,1.1
+Pengurusan Air Selangor Sdn Bhd (,Pengurusan Air Selangor Sdn Bhd (,ORG,0.39898989898989895,0.36363636363636365,en,1.1
+Ya’aburnee,Ya’aburnee,ORG,0.42424242424242414,0.5757575757575758,en,1.1
+Harvard University,Harvard University,ORG,0.06060606060606059,0.17424242424242423,en,1.1
+CSIRO,CSIRO,ORG,0.06818181818181819,0.46590909090909083,en,1.1
+GMDA,GMDA,ORG,0.0,0.0,en,1.0
+Legislative Assembly,Legislative Assembly,ORG,-0.009090909090909094,0.0,en,1.0
+DM Samba,DM Samba,ORG,0.025,0.0,en,1.0
+Sponge,Sponge,ORG,0.0,0.0,en,1.0
+Assembly,Assembly,ORG,-0.08181818181818182,0.0,en,1.0
+AUKH,AUKH,ORG,0.0,0.0,en,1.0
+NWS,NWS,ORG,0.0,0.0,en,1.0
+Pennhurst Asylum,Pennhurst Asylum,ORG,-0.05,0.0,en,1.0
+The AI Buildout,The AI Buildout,ORG,0.1,0.0,en,1.0
+the Danish Veterinary and Food Admin,the Danish Veterinary and Food Admin,ORG,0.0,0.0,en,1.0
+STATE TIMES NEWS,STATE TIMES NEWS,ORG,0.037500000000000006,0.0,en,1.0
+NYPD,NYPD,ORG,-0.2,0.0,en,1.0
+G20,G20,ORG,0.3,0.0,en,1.0
+Milano Cortina,Milano Cortina,ORG,0.05000000000000002,0.0,en,1.0
+The Milano-Cortina,The Milano-Cortina,ORG,0.0,0.0,en,1.0
+Oppo,Oppo,ORG,0.6000000000000001,0.0,en,1.0
+iPhone,iPhone,ORG,0.6000000000000001,0.0,en,1.0
+Sukkot,Sukkot,ORG,0.0,0.0,en,1.0
+J&K,J&K,ORG,0.0,0.0,en,1.0
+Swan Defence and Heavy,Swan Defence and Heavy,ORG,-0.2,0.0,en,1.0
+the Danish Veterinary and Food Administration,the Danish Veterinary and Food Administration,ORG,0.06818181818181818,0.0,en,1.0
+Product Launches,Product Launches,ORG,0.0,0.0,en,1.0
+Children,Children,ORG,0.25,0.0,en,1.0
+Mips,Mips,ORG,0.09375,0.0,en,1.0
+The Irish Times,The Irish Times,ORG,-0.05,0.0,en,1.0
+Air Selangor,Air Selangor,ORG,-0.1,0.0,en,1.0
+Basis Bay’s,Basis Bay’s,ORG,-0.1,0.0,en,1.0
+Eco Green Premium Data Centre,Eco Green Premium Data Centre,ORG,-0.1,0.0,en,1.0
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.3,0.0,en,1.0
+Roast Magazine’s,Roast Magazine’s,ORG,0.4,0.0,en,1.0
+Daily Coffee News,Daily Coffee News,ORG,0.4,0.0,en,1.0
+GatesNotes,GatesNotes,ORG,0.1125,0.0,en,1.0
+Sherlock High-Grade Antimony Results,Sherlock High-Grade Antimony Results,ORG,0.14444444444444443,0.0,en,1.0
+The Nation,The Nation,ORG,0.25,0.0,en,1.0
+Angerer/,Angerer/,ORG,0.0,0.0,en,1.0
+The National Capital Region Transport Corporation,The National Capital Region Transport Corporation,ORG,0.0,0.0,en,1.0
+the Namo Bharat Depot,the Namo Bharat Depot,ORG,0.0,0.0,en,1.0
+the National Capital Region Transport Corporation,the National Capital Region Transport Corporation,ORG,0.1621212121212121,0.0,en,1.0
+amber warnings,amber warnings,ORG,-0.2,0.0,en,1.0
+the Spanish Meteorological Agency,the Spanish Meteorological Agency,ORG,0.07777777777777777,0.0,en,1.0
+AEMET,AEMET,ORG,0.07777777777777777,0.0,en,1.0
+AERC,AERC,ORG,0.0,0.0,en,1.0
+Goldsmith & Baillie Gifford Prizes,Goldsmith & Baillie Gifford Prizes,ORG,-0.05,0.0,en,1.0
+Prix de Traduction,Prix de Traduction,ORG,-0.05,0.0,en,1.0
+Write-Time,Write-Time,ORG,-0.05,0.0,en,1.0
+Storylines Europe,Storylines Europe,ORG,-0.05,0.0,en,1.0
+Farming & RPG Asset Pack,Farming & RPG Asset Pack,ORG,0.0,0.0,en,1.0
+Unity,Unity,ORG,0.10000000000000002,0.0,en,1.0
+neutro,neutro,ORG,0.04,0.0,en,1.0
+Upcoming Technologies,Upcoming Technologies,ORG,0.0,0.0,en,1.0
+Mazagon Dock Shipbuilding Ltd,Mazagon Dock Shipbuilding Ltd,ORG,-0.2,0.0,en,1.0
+CAGR,CAGR,ORG,0.0,0.0,en,1.0
+"Therapy Area, Route of Administration","Therapy Area, Route of Administration",ORG,0.0,0.0,en,1.0
+"Bennett, Coleman &amp;","Bennett, Coleman &amp;",ORG,0.03333333333333333,0.0,en,1.0
+Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
+WA,WA,ORG,0.0,0.0,en,1.0
+PLOS Water 4(11,PLOS Water 4(11,ORG,0.0,0.0,en,1.0
+beave,beave,ORG,-0.041666666666666664,0.0,en,1.0
+Rural Devon,Rural Devon,ORG,0.1875,0.0,en,1.0
+Science New Research,Science New Research,ORG,-0.18181818181818182,0.0,en,1.0
+the National Academy of Sciences,the National Academy of Sciences,ORG,0.14444444444444443,0.0,en,1.0
+the National Acad,the National Acad,ORG,0.0,0.0,en,1.0
+Prix Femina,Prix Femina,ORG,-0.05,0.0,en,1.0
+MDL,MDL,ORG,-0.2,0.0,en,1.0
+first cultural commission,first cultural commission,ORG,0.1722222222222222,0.0,en,1.0
+building33k cr,building33k cr,ORG,0.0,0.0,en,1.0
+Status Orange,Status Orange,ORG,0.0,0.0,en,1.0
+Pouyesh Group’s,Pouyesh Group’s,ORG,0.13636363636363635,0.0,en,1.0
+the… Pouyesh Group’s,the… Pouyesh Group’s,ORG,0.13636363636363635,0.0,en,1.0
+ThursdayDay,ThursdayDay,ORG,-0.06666666666666667,0.0,en,1.0
+Bentley Systems Announces Winners,Bentley Systems Announces Winners,ORG,0.0,0.0,en,1.0
+Founders Honors,Founders Honors,ORG,0.0,0.0,en,1.0
+Arm & Hammer,Arm & Hammer,ORG,0.6,0.0,en,1.0
+Arm &amp,Arm &amp,ORG,0.6,0.0,en,1.0
+The Old Farmer's,The Old Farmer's,ORG,0.1,0.0,en,1.0
+UCLA,UCLA,ORG,0.06666666666666667,0.3,en,1.0
+Hearst Magazines,Hearst Magazines,ORG,-0.1,0.0,en,1.0
+Yahoo,Yahoo,ORG,-0.1,0.0,en,1.0
+Old Farmer's,Old Farmer's,ORG,0.05,0.0,en,1.0
+New Mangalore Port Authority,New Mangalore Port Authority,ORG,0.13636363636363635,0.0,en,1.0
+the New Mangalore Port Authority,the New Mangalore Port Authority,ORG,0.06818181818181818,0.0,en,1.0
+Permaculture,Permaculture,ORG,0.3,0.0,en,1.0
+Pompeii,Pompeii,ORG,0.0,0.0,en,1.0
+the Environment Agency,the Environment Agency,ORG,0.0,0.0,en,1.0
+Apple Review,Apple Review,ORG,-0.16666666666666666,0.0,en,1.0
+Investigation Underway,Investigation Underway,ORG,0.0,0.0,en,1.0
+the Reunion of Sugar,the Reunion of Sugar,ORG,0.25,0.0,en,1.0
+SoCal,SoCal,ORG,0.0,0.0,en,1.0
+IMD,IMD,ORG,0.04999999999999999,0.25,en,1.0
+Indian Mertrological Department's,Indian Mertrological Department's,ORG,0.0,0.0,en,1.0
+Telangana,Telangana,ORG,0.0,0.0,en,1.0
+12:37:46,12:37:46,ORG,0.0,0.0,en,1.0
+Mertrological Department's,Mertrological Department's,ORG,0.0,0.0,en,1.0
+Nashik,Nashik,ORG,-0.5,0.0,en,1.0
+Mould,Mould,ORG,0.016233766233766232,0.0,en,1.0
+The India Rainwater Harvesting Market,The India Rainwater Harvesting Market,ORG,0.0,0.0,en,1.0
+Sugar,Sugar,ORG,0.16666666666666666,0.0,en,1.0
+India Rainwater Harvesting Market Report,India Rainwater Harvesting Market Report,ORG,0.5,0.0,en,1.0
+Hydrostatics Watertech Consultants,Hydrostatics Watertech Consultants,ORG,0.5,0.0,en,1.0
+Rainmaxx Solutions,Rainmaxx Solutions,ORG,0.5,0.0,en,1.0
+EcoWater Systems,EcoWater Systems,ORG,0.5,0.0,en,1.0
+"The ""India Rainwater Harvesting Market 2025","The ""India Rainwater Harvesting Market 2025",ORG,0.0,0.0,en,1.0
+ResearchAndMarkets.com,ResearchAndMarkets.com,ORG,0.0,0.0,en,1.0
+Secure State’s,Secure State’s,ORG,0.4,0.0,en,1.0
+LONGVIEW,LONGVIEW,ORG,0.0,0.0,en,1.0
+Astragalus,Astragalus,ORG,0.0,0.0,en,1.0
+The Holcim Foundation,The Holcim Foundation,ORG,0.0,0.0,en,1.0
+the United Nations Office for Disaster Risk Reduction,the United Nations Office for Disaster Risk Reduction,ORG,0.25,0.0,en,1.0
+the United Nations Office,the United Nations Office,ORG,0.0875,0.0,en,1.0
+Holcim Foundation for,Holcim Foundation for,ORG,0.5,0.0,en,1.0
+Holcim Awards,Holcim Awards,ORG,0.5,0.0,en,1.0
+The Holcim Foundation for Sustainable Construction,The Holcim Foundation for Sustainable Construction,ORG,0.5,0.0,en,1.0
+Middl,Middl,ORG,0.5,0.0,en,1.0
+Image © Holcim Foundation,Image © Holcim Foundation,ORG,0.0,0.0,en,1.0
+Farmers,Farmers,ORG,0.0625,0.0,en,1.0
+Kumari A,Kumari A,ORG,0.0,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,1.0
+the Samuel H. Scripps Theater Center,the Samuel H. Scripps Theater Center,ORG,0.018181818181818174,0.0,en,1.0
+the United Kuki National Army,the United Kuki National Army,ORG,-0.2,0.0,en,1.0
+Ramachandrappa Layout,Ramachandrappa Layout,ORG,-0.05,0.0,en,1.0
+Ullal Up,Ullal Up,ORG,-0.05,0.0,en,1.0
+NAT,NAT,ORG,-0.05,0.0,en,1.0
+SOP,SOP,ORG,-0.27777777777777773,0.0,en,1.0
+PBAPP,PBAPP,ORG,0.0,0.0,en,1.0
+Penang Water Supply Corporation,Penang Water Supply Corporation,ORG,0.0,0.0,en,1.0
+Perak water committee,Perak water committee,ORG,0.0,0.0,en,1.0
+IPOH,IPOH,ORG,-0.125,0.0,en,1.0
+Nanotechnological,Nanotechnological,ORG,0.0,0.0,en,1.0
+Zupan,Zupan,ORG,0.3,0.0,en,1.0
+Rain-Powered Energy,Rain-Powered Energy,ORG,0.5,0.0,en,1.0
+Elon Musk's Boring Company,Elon Musk's Boring Company,ORG,-1.0,0.0,en,1.0
+The Conversation,The Conversation,ORG,0.375,0.0,en,1.0
+Bloomberg,Bloomberg,ORG,0.05,0.0,en,1.0
+The India Meteorological Department,The India Meteorological Department,ORG,0.0,0.0,en,1.0
+"Loaves, Fishes, Tree Bark, Seeds","Loaves, Fishes, Tree Bark, Seeds",ORG,0.0,0.0,en,1.0
+the Sorcerers Stone,the Sorcerers Stone,ORG,0.23333333333333334,0.0,en,1.0
+Ritz-Carlton,Ritz-Carlton,ORG,0.0,0.0,en,1.0
+the Lance Formation,the Lance Formation,ORG,0.45,0.0,en,1.0
+Rutgers University,Rutgers University,ORG,0.14583333333333331,0.0,en,1.0
+Diet,Diet,ORG,0.1875,0.0,en,1.0
+Perak,Perak,ORG,-0.2,0.0,en,1.0
+Bukit Merah Dam Releases,Bukit Merah Dam Releases,ORG,-0.2,0.0,en,1.0
+the Assam Electricity Regulatory Commission,the Assam Electricity Regulatory Commission,ORG,-0.1,0.0,en,1.0

@@ -11,6 +11,7 @@ import glob
 
 import aiohttp
 import asyncio
+import io
 import requests
 from urllib.parse import urlparse
 import json

@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.229587623541875
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.2291535295974687
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.2171561870317575
-'mould rain',en,Impacts,#ffff00,#ffff00,1,0.207993545440639
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1846060661028667
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1807508712403475
+'mould rain',en,Impacts,#ffff00,#ffff00,2,0.17994484362454316
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.1718720603482943
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.1608275505784359
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.1269818786277632

@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.2861921373106249
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.2821727524481068
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.2669565942047471
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2508601000090311
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.2481856106304686
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.2461543672161978
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.2392817236610376
@@ -12,9 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.2218526562499999
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.2171561870317575
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.2158595969089215
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.21428168500767641
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1846060661028667
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1807508712403475
 'mould rain',en,Impacts,#ffff00,#ffff00,2,0.1799448436245431
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.1718720603482943
-'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.11619790529291991
+'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.1161979052929199
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.1121362018335987

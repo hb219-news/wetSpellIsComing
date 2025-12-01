@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.2171561870317575
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.2158595969089215
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2142816850076764
-'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1846060661028667
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1807508712403475
 'mould rain',en,Impacts,#ffff00,#ffff00,2,0.1799448436245431
+'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1597659961874367
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.1487915362960501
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.1161979052929199
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.09846713655855889
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0984671365585588

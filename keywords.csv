@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.2821727524481068
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.25308676958089077
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.2461543672161978
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.2218526562499999
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.22056737256531
@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.2158595969089215
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2142816850076764
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.2080423601118819
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.20563724456292976
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.2056372445629297
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.1970309801578484
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.1969496750105937
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.1895346489769939

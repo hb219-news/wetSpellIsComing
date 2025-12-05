@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.25308676958089077
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.2461543672161978
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.2530867695808907
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.2218526562499999
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.22056737256531
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.2199894016207195
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.2189825471337681
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.2158595969089215
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.2142816850076764
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.2080423601118819

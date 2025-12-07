@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1626809196452044
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.1602885441406249
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1597659961874367
-'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0987682194989819
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0984671365585588
-'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.09178733632051486
+'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.0917873363205148
+'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.08395298657413461

@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.1660565966304448
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1626809196452044
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.1602885441406249
-'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1597659961874367
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.1529532970808616
+'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.1401521467593212
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0921864221092577
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0839529865741346
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0780195808724375

@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.1817889460950996
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.1804015666967166
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.1811118816922091
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.1786576423649403
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.1715976106938644
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.1679638306784364

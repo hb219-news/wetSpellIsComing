@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.1323333529318082
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.1267820907283807
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.125362533692748
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0904876742239386
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0814162330903478
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0453610122839676
-'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.031662828221706824
+'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0316628282217068

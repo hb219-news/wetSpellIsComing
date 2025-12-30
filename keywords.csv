@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.12792036758545
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.1264848057638347
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.125362533692748
-'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.12174870097532538
+'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1217487009753253
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.1184364156905521
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.1183140700788436
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.1158084731416014
@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.1100739780161399
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0741556731267956
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0405070554413724
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.03653120712516653
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0119416203271341

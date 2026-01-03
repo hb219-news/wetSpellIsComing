@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.1184364156905521
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.1183140700788436
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.1158084731416014
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.115303830223397
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.1131341583909224
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.1124652198992594
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.1100739780161399
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.1047729989932313
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.10281056568988746
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0958188672582268
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.06962901860683704
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.069629018606837
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0333017510563915
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0086278206863543

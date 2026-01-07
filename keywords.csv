@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.12792036758545
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.112191831240689
-'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.1113587986388358
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.1110787856170549
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.1100739780161399
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.1094734107261203
@@ -9,7 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.1065663663426035
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.1047729989932313
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.1026211483369693
-'constant rain',en,Hazard,#ff0000,#ff0000,3,0.10039863191437048
+'constant rain',en,Hazard,#ff0000,#ff0000,3,0.1003986319143704
+'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.09915562384301042
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0984372021703612
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.097364214632284
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0958188672582268

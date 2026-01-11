@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0991556238430104
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0984372021703612
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0983195777744966
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0982135263137189
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.097364214632284
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0953733105078829
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0944834063912129
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0929283653513109
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0857075162245942
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.08483214236666105
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.08234654728606
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0608476872769236
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0293565933979327

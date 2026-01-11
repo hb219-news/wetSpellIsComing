@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.12792036758545
+'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.1097824174476325
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.1039548201909492
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.1026211483369693
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.1015961051662885
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.097364214632284
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0953733105078829
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0944834063912129
-'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.09292836535131097
+'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0929283653513109
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0857075162245942
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.08234654728606

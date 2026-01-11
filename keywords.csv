@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0983195777744966
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0982135263137189
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.097364214632284
-'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0958188672582268
-'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.09537331050788296
+'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0953733105078829
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0944834063912129
+'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.09292836535131097
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0857075162245942
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.08234654728606

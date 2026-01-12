@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0929283653513109
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0890856220262989
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0857075162245942
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.08483214236666105
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.084832142366661
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.08234654728606
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0608476872769236
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.05667264918538506
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0293565933979327
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0086278206863543

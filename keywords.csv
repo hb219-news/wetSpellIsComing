@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0778791531734603
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.077823483722354
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0710856692222692
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.06381239060991253
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0638123906099125
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.056672649185385
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0235578734800062
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.02137432745800527
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0076336775834011

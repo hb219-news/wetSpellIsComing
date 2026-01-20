@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.1042047203390913
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.100793731259059
-'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.09802694156156322
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0902916721272148
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0887283062925061
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0886079193913452
+'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.08827443032732872
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0875050534800886
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.083671621844807
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0830301846588353

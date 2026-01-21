@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0824396055486142
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0778791531734603
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.075995225193151
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.07591778148264343
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0759177814826434
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0717108925718251
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.0661507261640008
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0638123906099125
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.056672649185385
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0174356897251473
-'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0076336775834011
+'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.006788655945890934

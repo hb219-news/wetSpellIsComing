@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0875050534800886
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0867247765702001
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.083671621844807
-'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0830301846588353
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0828393845532145
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0824396055486142
-'constant rain',en,Hazard,#ff0000,#ff0000,3,0.08155062130813256
+'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0815506213081325
+'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.07916475059637364
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0778791531734603
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.075995225193151
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0759177814826434

@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0815506213081325
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0791798804580753
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0791647505963736
-'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0778791531734603
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0759177814826434
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.07491618008467
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0711208785680859
+'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.06934762519744125
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0663966314141783
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.0661507261640008
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0582988696331436

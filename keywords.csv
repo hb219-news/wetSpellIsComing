@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0935941110127743
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.08814384799722179
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0817780032690002
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0758428880069175
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0756026742633337
@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0585832161825426
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0582988696331436
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0548705344656617
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.04808131039000603
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.048081310390006
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0170705612663752
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0067886559458909

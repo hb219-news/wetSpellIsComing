@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0998747307976384
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0752421796277173
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.07491618008467
-'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.07405056117590696
+'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.07425974836315723
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0736711481119126
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0720092015280291
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0692141031238336

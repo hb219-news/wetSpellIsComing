@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0934825698143562
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.09572580256800922
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0798190835926506
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.07491618008467
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0694376174723199
@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0684410692796969
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0675738658951257
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.067453408389364
-'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.06616230629882473
+'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0661623062988247
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0633901838873614
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.060452746782873
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0602965437551612

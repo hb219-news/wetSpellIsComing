@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0581826985545809
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0538233240004378
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0536247589777118
-'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.051630772473221724
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0472019296157262
+'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0516307724732217
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0445362558099462
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0436771095506256
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.041622285173367274
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0189737921258056
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0035365640814653

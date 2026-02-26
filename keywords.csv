@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0543388440367357
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0540764195754994
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0445362558099462
-'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.04388657660223845
+'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0438865766022384
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0371255431180317
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0365795573973621
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0189737921258056
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.01897800830693476
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0028326952988586

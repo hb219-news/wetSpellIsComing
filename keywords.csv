@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0540764195754994
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0445362558099462
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0438865766022384
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.042861465605939605
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0371255431180317
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0365795573973621
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.018981592060894496
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0189815920608944
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0028326952988586

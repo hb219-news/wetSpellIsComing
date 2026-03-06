@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.09609516307411561
-'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0848136687727909
+'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.10159644845687225
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0960951630741156
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0660204499684441
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0648966005434334
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0584674739949821

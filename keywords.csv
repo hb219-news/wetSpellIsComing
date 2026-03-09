@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0915154214574121
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0648966005434334
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0584674739949821
-'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.05763499962492806
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0574315395504092
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.056474715361174
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.056363242977308
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0546039442483597
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0544077237713937
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0540764195754994
+'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0537924796811888
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0438865766022384
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0438559974384542
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0434739154732788

@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.09008114954188251
-'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0639493621323787
+'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0900811495418825
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0554705749655432
+'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0551070328125219
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0545520402755381
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0543218240169297
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0537624497573524

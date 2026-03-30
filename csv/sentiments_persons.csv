@@ -34,8 +34,8 @@ Hat Yai,Hat Yai,PERSON,0.18421052631578946,0.2894736842105263,en,1.9
 Nayudu Trophy,Nayudu Trophy,PERSON,-0.324074074074074,0.11111111111111112,en,1.8
 Jan Twomey,Jan Twomey,PERSON,0.38888888888888884,0.6111111111111112,en,1.8
 Jayatissa Munasinghe,Jayatissa Munasinghe,PERSON,0.0,0.3209876543209877,en,1.8
-Keith Leonard,Keith Leonard,PERSON,0.0662962962962963,0.4695061728395062,en,1.8
 Colletotrichum acutatum,Colletotrichum acutatum,PERSON,0.034722222222222224,0.3333333333333333,en,1.8
+Keith Leonard,Keith Leonard,PERSON,0.0662962962962963,0.4695061728395062,en,1.8
 Xylella fastidiosa,Xylella fastidiosa,PERSON,-0.5,0.7777777777777777,en,1.8
 Storm Claudia,Storm Claudia,PERSON,-0.23529411764705885,0.5882352941176471,en,1.7
 Brendan Kennedy,Brendan Kennedy,PERSON,0.008333333333333331,0.5674603174603176,en,1.5
@@ -81,16 +81,16 @@ Ayushi Sudan,Ayushi Sudan,PERSON,0.06818181818181819,0.6818181818181818,en,1.1
 Pablo Luna Studio,Pablo Luna Studio,PERSON,0.0,0.0,en,1.1
 Rubenstein Treehouse,Rubenstein Treehouse,PERSON,0.030303030303030293,0.17424242424242423,en,1.1
 Bill Mollison,Bill Mollison,PERSON,0.36363636363636365,0.803030303030303,en,1.1
+Mick Sullivan,Mick Sullivan,PERSON,-0.3,0.1,en,1.0
 Kevin W,Kevin W,PERSON,0.0,0.0,en,1.0
-Maurice Manishimwe,Maurice Manishimwe,PERSON,-0.18333333333333335,0.2833333333333334,en,1.0
 Meltwater Turns Iceberg A-23A Blue,Meltwater Turns Iceberg A-23A Blue,PERSON,0.0,0.1,en,1.0
 Surrey FA,Surrey FA,PERSON,0.0,1.0,en,1.0
 Ana Paula de Alba,Ana Paula de Alba,PERSON,0.0,0.0,en,1.0
 waterlogged berg,waterlogged berg,PERSON,0.0,1.0,en,1.0
-Sil A,Sil A,PERSON,0.0,0.5,en,1.0
+Maurice Manishimwe,Maurice Manishimwe,PERSON,-0.18333333333333335,0.2833333333333334,en,1.0
 Parvathy Thiruvothu,Parvathy Thiruvothu,PERSON,0.8,1.0,en,1.0
 Ronald Reagan,Ronald Reagan,PERSON,0.375,0.41666666666666663,en,1.0
-Mick Sullivan,Mick Sullivan,PERSON,-0.3,0.1,en,1.0
+Rodriguez RA,Rodriguez RA,PERSON,0.0,0.5,en,1.0
 ESTUDIO Ignacio Urquiza,ESTUDIO Ignacio Urquiza,PERSON,0.0,0.0,en,1.0
 Chinchilla Shower,Chinchilla Shower,PERSON,0.0,0.0,en,1.0
 Waymo no-mo,Waymo no-mo,PERSON,0.0,0.25,en,1.0
@@ -100,7 +100,7 @@ Liu C,Liu C,PERSON,0.15,0.6833333333333335,en,1.0
 Chang K,Chang K,PERSON,0.15,0.6833333333333335,en,1.0
 Ortega A,Ortega A,PERSON,-0.06666666666666667,0.18333333333333335,en,1.0
 Chen S,Chen S,PERSON,0.15,0.6833333333333335,en,1.0
-Rodriguez RA,Rodriguez RA,PERSON,0.0,0.5,en,1.0
+Sil A,Sil A,PERSON,0.0,0.5,en,1.0
 Oloitipitip F,Oloitipitip F,PERSON,0.0,0.8,en,1.0
 Voorhies M,Voorhies M,PERSON,0.0,0.5,en,1.0
 Paul Connor,Paul Connor,PERSON,0.0,0.0,en,1.0

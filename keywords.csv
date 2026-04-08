@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0483501237207117
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,2,0.0449318383011049
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0438865766022384
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.043163030815247604
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0423849157974941
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.037889221192960454
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0326545352366181
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0193797655422569
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0154047819537724

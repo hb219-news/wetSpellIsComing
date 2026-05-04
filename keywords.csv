@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.047134479576395
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0466785684352383
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0455858024700907
-'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0443760083451172
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0422877089195914
+'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.03951980209334962
 'groundwater flood',en,Impacts,#ffff00,#ffff00,1,0.0380442811870041
-'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.03290636812283249
+'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0329063681228324
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0327519369005539
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0317501004174819
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0300066699511253

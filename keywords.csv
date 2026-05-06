@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0547029098694014
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0503594605589119
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0498337811411851
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.04779889209957709
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.047134479576395
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0466785684352383
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.04468001828464045
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0422877089195914
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0395198020933496
 'groundwater flood',en,Impacts,#ffff00,#ffff00,1,0.0380442811870041

@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.058581350253338105
-'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0562061116882946
+'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0585813502533381
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0556441793982785
+'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.05409076629868677
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0518978826399357
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0511494533889911
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0503594605589119

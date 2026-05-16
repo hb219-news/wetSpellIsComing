@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0498337811411851
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0486047428664444
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0422877089195914
-'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.04159065177801658
+'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0415906517780165
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0398914198154051
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0355420567793471
-'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0317501004174819
+'mould rain',en,Impacts,#ffff00,#ffff00,1,0.03381270535485961
 'wet harvest',en,Impacts,#ffff00,#ffff00,1,0.0279708779044075
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0135642620562988

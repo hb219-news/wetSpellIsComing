@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.09174214244235462
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0917421424423546
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0550626115385962
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.054734377863963
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0539153050269229
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0523550458972252
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0506569588098919
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0486047428664444
-'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0471598239700073
+'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.04769950537450621
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.045688916573546
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0422877089195914
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,2,0.0415906517780165

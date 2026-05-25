@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0931549654468592
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.09168316062983031
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0593048548078067
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0575977060910662
-'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.054502794012641416
+'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0545027940126414
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0506569588098919
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0486047428664444
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0471252711843685

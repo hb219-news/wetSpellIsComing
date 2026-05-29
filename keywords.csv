@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0916831606298303
-'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.060694627581652685
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0565123144898615
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0536095951774062
+'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.052340508444404715
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0477101699884081
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0471252711843685
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0468184796330806

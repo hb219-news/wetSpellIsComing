@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0825820515353557
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.07874615380505233
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0565123144898615
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0505197759007952
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0471252711843685
@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0302409645516306
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
 'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.0201033708913537
-'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.018444244512837486
+'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0184442445128374
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0073090691871881
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0036839964229029

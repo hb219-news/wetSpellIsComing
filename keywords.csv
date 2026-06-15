@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0607492747048048
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0573405019690406
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.054458163340351175
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0518596867430037
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0505656490631893
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.050467966153204015
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.050467966153204
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0497093221331948
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0496048842709268
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0467784099107451

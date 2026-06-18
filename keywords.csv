@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0345781367919629
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0301994048347291
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0283878587821164
-'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.026845416364508615
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
+'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.02536936890983231
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0176879326164828
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0062127088091098

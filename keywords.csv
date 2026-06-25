@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.08361149971969556
+'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0836114997196955
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0637804304564386
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0550833584718901
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0527542438132155
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0408207488046655
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0345781367919629
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0300992214779407
-'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0283878587821164
+'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.02967987496479894
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
 'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.0207686616442506
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0154847877240103

@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0296798749647989
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
 'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.0207686616442506
-'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.013462099565408754
-'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0052808024877433
+'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0134620995654087
+'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.004488682114581805

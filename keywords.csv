@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0836114997196955
+'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.08011282885265027
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0737104104334273
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0691403708300852
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.06415054183185186
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0641505418318518
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0524978788392984
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0489638087459405
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0471036840666247

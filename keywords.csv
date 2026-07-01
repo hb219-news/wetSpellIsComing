@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0365163890651748
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0345781367919629
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0300992214779407
-'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.0296798749647989
+'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.026728058720079065
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
 'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.0207686616442506
-'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.011742814630597394
+'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0117428146305973
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0038153797973945

@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0429731895037313
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0408207488046655
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0365163890651748
-'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.036059835818941996
+'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0360598358189419
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0345781367919629
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.0285851332562495
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,1,0.026728058720079
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
-'mold harvest',en,Impacts,#ffff00,#ffff00,2,0.0207686616442506
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.017653452397613012
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0117428146305973
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0032430728277853

@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0491063732613707
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0485898264566309
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.047853069778739
+'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.045580827765856056
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0455471011430734
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.040798098267812
-'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.03392174537918551
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0283130368321931
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0246707691619527

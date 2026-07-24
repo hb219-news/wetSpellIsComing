@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0495761070134036
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0491063732613707
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0459539324881362
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0456526822612229
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0453287843119281
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.04461492277918232
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0393442586009776
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0327703337876598
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,1,0.0255059094584565

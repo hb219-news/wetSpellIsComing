@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0668242214566325
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0666907596440522
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0545292385276401
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0495761070134036
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.050114220616565466
 'groundwater rising',en,Impacts,#ffff00,#ffff00,3,0.0464248906054984
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0459539324881362
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0453287843119281
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0428756543623049
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0393442586009776
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0296549637195108
-'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.025430653039688025
+'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.025430653039688
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0243190553612594
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0240026335614684
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0117057069145991

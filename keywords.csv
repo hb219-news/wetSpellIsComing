@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0459539324881362
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0453287843119281
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0450340748443228
-'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.0355433398108309
+'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.040162588839206266
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.025430653039688
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0247560442873464
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0243190553612594

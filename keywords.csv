@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.1072118802072986
-'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0757797861576114
+'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.07245437000816324
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0662797811803893
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0648552630633992
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0605546382381376
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.040240698416551
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.0394621170146736
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0285341222378411
-'mould rain',en,Impacts,#ffff00,#ffff00,1,0.026170172212795616
+'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0261701722127956
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0247560442873464
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0240026335614684
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0158702196198656

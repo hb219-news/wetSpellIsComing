@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0866255631997732
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.07970801029816475
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0797080102981647
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0721015848088725
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0608392690033309
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0594277338399128
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0537376585750231
 'wet harvest',en,Impacts,#ffff00,#ffff00,2,0.046350827748494
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.040240698416551
-'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.0394621170146736
+'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.037743954462472556
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0285341222378411
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0240026335614684
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0228428176442444

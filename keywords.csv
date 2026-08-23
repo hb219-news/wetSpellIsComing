@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0866255631997732
-'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.07240426875343998
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.08827978371980721
+'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0724042687534399
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0721015848088725
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0608392690033309
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0594277338399128

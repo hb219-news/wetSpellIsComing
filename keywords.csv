@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0285341222378411
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0240026335614684
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0228428176442444
-'mould rain',en,Impacts,#ffff00,#ffff00,1,0.019631023647682995
+'mould rain',en,Impacts,#ffff00,#ffff00,1,0.017886580100530465
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0158702196198656
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0036330562571564
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0023431201180748

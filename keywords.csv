@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0566648936528312
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0566482627958542
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0546098754780627
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.05188636478876963
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0518863647887696
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0440493135862199
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.040240698416551
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.0377439544624725
 'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0285341222378411
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0279451764261791
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0240026335614684
+'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.02202329001021909
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0178865801005304
-'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.0158702196198656
 'swampy fields',en,Impacts,#ffff00,#ffff00,1,0.0036330562571564
 'rain fatique',en,Hazard,#ff0000,#ff0000,1,0.0023431201180748

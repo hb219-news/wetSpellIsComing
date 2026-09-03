@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0868103029800179
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0662397670875416
-'wet soil',en,Impacts,#ffff00,#ffff00,3,0.06087477188863598
+'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0608747718886359
 'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0594277338399128
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0578129318256401
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0576693595160623
@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0440493135862199
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.040240698416551
 'groundwater rising',en,Impacts,#ffff00,#ffff00,2,0.0377439544624725
-'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.0285341222378411
 'flood-borne diseases',en,Impacts,#ffff00,#ffff00,1,0.0279451764261791
+'persistent rain climate change',en,Causes,#00ffff,#00ffff,2,0.027854813902164932
 'rain disease prevention',en,Hazard,#ff0000,#ff0000,2,0.0240026335614684
 'mold harvest',en,Impacts,#ffff00,#ffff00,1,0.022023290010219
 'mould rain',en,Impacts,#ffff00,#ffff00,1,0.0212038330854508

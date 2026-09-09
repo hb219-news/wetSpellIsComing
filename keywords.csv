@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.09319637784758768
+'waterlogged',en,Hazard,#ff0000,#ff0000,3,0.0931963778475876
 'rainwater harvesting',en,Mitigation,#00ff00,#00ff00,3,0.0754188529054856
 'drainage rain',en,Adaptation,#0000ff,#0000ff,3,0.0722775722433182
-'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.0594277338399128
 'high soil moisture',en,Impacts,#ffff00,#ffff00,3,0.0578129318256401
 'fungal infections',en,Impacts,#ffff00,#ffff00,3,0.0576693595160623
 'wet soil',en,Impacts,#ffff00,#ffff00,3,0.0566972011053405
 'continuous rainfall',en,Hazard,#ff0000,#ff0000,3,0.0566482627958542
+'persistent rain',en,Hazard,#ff0000,#ff0000,3,0.05471745876392588
 'constant rain',en,Hazard,#ff0000,#ff0000,3,0.0546098754780627
 'groundwater flood',en,Impacts,#ffff00,#ffff00,2,0.040240698416551
 'wet harvest',en,Impacts,#ffff00,#ffff00,3,0.0395431165482869

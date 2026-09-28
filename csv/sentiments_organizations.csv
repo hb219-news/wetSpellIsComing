@@ -4,7 +4,7 @@ Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,34.8999999999
 IMD,IMD,ORG,-0.010684018098303811,1.017153864125292,en,32.50000000000002
 National League,National League,ORG,-0.175,0.3136363636363636,en,11.000000000000002
 MetMalaysia,MetMalaysia,ORG,0.13108465608465608,0.3776455026455026,en,10.5
-Aedes,Aedes,ORG,-0.024602460246024603,0.44590709070907086,en,10.100000000000001
+Aedes,Aedes,ORG,-0.024602460246024603,0.44590709070907075,en,10.100000000000001
 AP,AP,ORG,0.16563162015289673,0.8226094531945595,en,9.4
 The India Meteorological Department,The India Meteorological Department,ORG,0.0762117055326932,0.7049954275262919,en,8.1
 PCMC,PCMC,ORG,-0.06965761511216058,0.45115112160566706,en,7.7
@@ -174,22 +174,22 @@ RUKUMPUR,RUKUMPUR,ORG,-0.021929824561403508,0.08333333333333333,en,1.9
 Kuttanad,Kuttanad,ORG,-1.0526315789473684,0.5263157894736842,en,1.9
 McMaster University,McMaster University,ORG,-0.3055555555555556,0.0,en,1.8
 IBEDC,IBEDC,ORG,0.0,0.05555555555555556,en,1.8
-the Journal of Comparative Effectiveness Research,the Journal of Comparative Effectiveness Research,ORG,0.1515151515151515,0.2525252525252525,en,1.8
 ISRO,ISRO,ORG,-0.05555555555555556,0.22222222222222224,en,1.8
 the Ghana Institution of Engineers,the Ghana Institution of Engineers,ORG,0.21212121212121213,0.4175084175084175,en,1.8
 Vanguard News,Vanguard News,ORG,0.13055555555555554,0.1787037037037037,en,1.8
-MCG,MCG,ORG,-0.11111111111111113,0.14814814814814814,en,1.8
 Patios,Patios,ORG,0.0,0.0,en,1.8
+MCG,MCG,ORG,-0.11111111111111113,0.14814814814814814,en,1.8
 Ing,Ing,ORG,0.21212121212121213,0.4175084175084175,en,1.8
 Belagavi,Belagavi,ORG,0.0,0.0,en,1.8
 Osun,Osun,ORG,0.0,0.05555555555555556,en,1.8
 Nanjing University,Nanjing University,ORG,0.11111111111111112,0.16666666666666666,en,1.8
 SPX,SPX,ORG,0.11111111111111112,0.16666666666666666,en,1.8
+Xinhua,Xinhua,ORG,-0.0925925925925926,0.11728395061728394,en,1.8
 BSLN,BSLN,ORG,0.0,0.0,en,1.8
 Basilea Pharmaceutica Ltd,Basilea Pharmaceutica Ltd,ORG,0.0,0.0,en,1.8
-Xinhua,Xinhua,ORG,-0.0925925925925926,0.11728395061728394,en,1.8
-ADC,ADC,ORG,-0.05555555555555556,0.02777777777777778,en,1.8
 GRACE-FO,GRACE-FO,ORG,0.02777777777777778,0.38888888888888884,en,1.8
+the Journal of Comparative Effectiveness Research,the Journal of Comparative Effectiveness Research,ORG,0.1515151515151515,0.2525252525252525,en,1.8
+SLHD,SLHD,ORG,0.0,0.0,en,1.8
 Novartis,Novartis,ORG,0.2777777777777778,0.0,en,1.8
 EV,EV,ORG,0.10946769280102611,0.22615039281705948,en,1.8
 ANVS,ANVS,ORG,0.0,0.2777777777777778,en,1.8
@@ -197,8 +197,8 @@ Pushpalal,Pushpalal,ORG,-0.11111111111111112,0.1388888888888889,en,1.8
 Sun Pharma,Sun Pharma,ORG,0.2777777777777778,0.0,en,1.8
 APLIF,APLIF,ORG,0.0,0.0,en,1.8
 Unity,Unity,ORG,0.055555555555555566,0.0,en,1.8
-the League of Ireland season,the League of Ireland season,ORG,-0.22222222222222224,0.2777777777777778,en,1.8
-J&K,J&K,ORG,0.0,0.0,en,1.8
+ADC,ADC,ORG,-0.05555555555555556,0.02777777777777778,en,1.8
+Sindbis,Sindbis,ORG,0.0,0.10416666666666666,en,1.8
 Sustainable Land Management (SLM,Sustainable Land Management (SLM,ORG,-0.037037037037037035,0.0,en,1.8
 Greater Noida,Greater Noida,ORG,0.3834054834054834,0.2136002886002886,en,1.8
 APLI,APLI,ORG,0.0,0.0,en,1.8
@@ -210,29 +210,29 @@ the Delhi-Dehradun Economic Corridor,the Delhi-Dehradun Economic Corridor,ORG,0.
 the Kandy District Disaster Management Centre,the Kandy District Disaster Management Centre,ORG,-0.09027777777777778,0.24305555555555555,en,1.8
 NHAI,NHAI,ORG,0.04166666666666667,0.2152777777777778,en,1.8
 Mahottari,Mahottari,ORG,-0.0724867724867725,0.13280423280423279,en,1.8
-Lagos,Lagos,ORG,-0.008333333333333335,0.0,en,1.8
+the League of Ireland season,the League of Ireland season,ORG,-0.22222222222222224,0.2777777777777778,en,1.8
+J&K,J&K,ORG,0.0,0.0,en,1.8
 Thrikkakara,Thrikkakara,ORG,0.0,0.0,en,1.8
 Trichophyton,Trichophyton,ORG,0.027777777777777787,0.1388888888888889,en,1.8
-Sindbis,Sindbis,ORG,0.0,0.10416666666666666,en,1.8
+The Ghana Institution of Engineering,The Ghana Institution of Engineering,ORG,0.4444444444444445,0.22222222222222224,en,1.8
 fe,fe,ORG,-0.016931216931216932,0.13280423280423279,en,1.8
 Trade and Medical Media,Trade and Medical Media,ORG,0.125,0.3055555555555556,en,1.8
 DENISON,DENISON,ORG,0.0,0.0,en,1.8
+Lagos,Lagos,ORG,-0.008333333333333335,0.0,en,1.8
 UAE,UAE,ORG,0.4203703703703704,0.12962962962962962,en,1.8
-The Ghana Institution of Engineering,The Ghana Institution of Engineering,ORG,0.4444444444444445,0.22222222222222224,en,1.8
-LJUBLJANA,LJUBLJANA,ORG,-0.1162464985994398,0.2058823529411765,en,1.7
-850cc,850cc,ORG,0.06737967914438503,0.22459893048128343,en,1.7
 the U.S. Centers for Disease Control and Prevention,the U.S. Centers for Disease Control and Prevention,ORG,0.049019607843137254,0.19607843137254902,en,1.7
 BBC,BBC,ORG,0.29411764705882354,0.0,en,1.7
 BSE,BSE,ORG,0.1871657754010695,0.6827094474153297,en,1.7
 the National Water Supply and Drainage Board,the National Water Supply and Drainage Board,ORG,0.07963185274109645,0.3547418967587035,en,1.7
-the US National Institutes of Health's,the US National Institutes of Health's,ORG,0.35294117647058826,0.05882352941176471,en,1.7
+LJUBLJANA,LJUBLJANA,ORG,-0.1162464985994398,0.2058823529411765,en,1.7
 NWSDB,NWSDB,ORG,0.07963185274109645,0.3547418967587035,en,1.7
 UPLIZNA,UPLIZNA,ORG,0.16042780748663102,0.26737967914438504,en,1.7
 National Institute of Allergy and Infectious Diseases,National Institute of Allergy and Infectious Diseases,ORG,0.35294117647058826,0.05882352941176471,en,1.7
+850cc,850cc,ORG,0.06737967914438503,0.22459893048128343,en,1.7
 Honda,Honda,ORG,0.06737967914438503,0.22459893048128343,en,1.7
 the North America Rainwater Harvesting Market,the North America Rainwater Harvesting Market,ORG,0.23796791443850268,0.2807486631016043,en,1.7
 MarkNtel Advisors,MarkNtel Advisors,ORG,0.23796791443850268,0.2807486631016043,en,1.7
-SLHD,SLHD,ORG,0.0,0.0,en,1.7
+the US National Institutes of Health's,the US National Institutes of Health's,ORG,0.35294117647058826,0.05882352941176471,en,1.7
 NSE,NSE,ORG,0.1871657754010695,0.6827094474153297,en,1.7
 Indi,Indi,ORG,0.00980392156862745,0.0,en,1.7
 Leptospirosis,Leptospirosis,ORG,0.026143790849673214,0.31699346405228757,en,1.7
@@ -1156,8 +1156,8 @@ the National Acad,the National Acad,ORG,0.0,0.0,en,1.0
 Carrera,Carrera,ORG,0.0,0.0,en,1.0
 neutro,neutro,ORG,0.04,0.0,en,1.0
 Rural Devon,Rural Devon,ORG,0.1875,0.0,en,1.0
-PLOS Water 4(11,PLOS Water 4(11,ORG,0.0,0.0,en,1.0
 beave,beave,ORG,-0.041666666666666664,0.0,en,1.0
+PLOS Water 4(11,PLOS Water 4(11,ORG,0.0,0.0,en,1.0
 "Therapy Area, Route of Administration","Therapy Area, Route of Administration",ORG,0.0,0.0,en,1.0
 Product Launches,Product Launches,ORG,0.0,0.0,en,1.0
 Upcoming Technologies,Upcoming Technologies,ORG,0.0,0.0,en,1.0
@@ -1360,9 +1360,9 @@ the Hidden Risks Mice,the Hidden Risks Mice,ORG,0.005555555555555564,0.0,en,1.0
 Carlisle United,Carlisle United,ORG,-0.4,0.0,en,1.0
 FIR,FIR,ORG,0.025,0.0,en,1.0
 Southcrest,Southcrest,ORG,0.1,0.0,en,1.0
-HFRS,HFRS,ORG,0.044444444444444446,0.0,en,1.0
 PLoS Biol 24(1,PLoS Biol 24(1,ORG,0.0,0.0,en,1.0
 Elberse J,Elberse J,ORG,0.2,0.0,en,1.0
+HFRS,HFRS,ORG,0.044444444444444446,0.0,en,1.0
 Mehta,Mehta,ORG,-0.125,0.0,en,1.0
 Expanding Export and Trade Activity,Expanding Export and Trade Activity,ORG,0.55,0.0,en,1.0
 Thoroug,Thoroug,ORG,0.0,0.0,en,1.0
@@ -1465,11 +1465,11 @@ v Brighton,v Brighton,ORG,-0.4,0.0,en,1.0
 Isro,Isro,ORG,0.0,0.0,en,1.0
 Oswal Pumps CMD,Oswal Pumps CMD,ORG,0.0,0.0,en,1.0
 Stade Gilbert Brutus,Stade Gilbert Brutus,ORG,0.7111111111111111,0.0,en,1.0
-"Fang L, et al","Fang L, et al",ORG,0.0,0.0,en,1.0
-Microglia,Microglia,ORG,0.0,0.0,en,1.0
 Barnie PA,Barnie PA,ORG,0.0,0.0,en,1.0
 Adjeley Frempong N,Adjeley Frempong N,ORG,0.0,0.0,en,1.0
 IgG,IgG,ORG,0.25,0.0,en,1.0
+"Fang L, et al","Fang L, et al",ORG,0.0,0.0,en,1.0
+Microglia,Microglia,ORG,0.0,0.0,en,1.0
 Lancet Gastroenterol,Lancet Gastroenterol,ORG,0.0,0.0,en,1.0
 D. &amp,D. &amp,ORG,0.5,0.0,en,1.0
 Pittodrie,Pittodrie,ORG,0.0,0.0,en,1.0

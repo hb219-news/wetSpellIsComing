@@ -83,18 +83,18 @@ this summer,this summer,DATE,,,en,4.1
 American,American,NORP,,,en,4.099999999999999
 nine,nine,CARDINAL,,,en,4.0
 Tallaght Stadium,Tallaght Stadium,FAC,,,en,4.0
-months,months,DATE,,,en,3.9999999999999996
 Surat,Surat,NORP,-0.23232323232323235,1.2737373737373738,en,3.9999999999999996
+months,months,DATE,,,en,3.9999999999999996
 six,six,CARDINAL,,,en,3.999999999999999
 the World Cup,the World Cup,EVENT,,,en,3.999999999999999
 this afternoon,this afternoon,TIME,,,en,3.9
 early morning,early morning,TIME,,,en,3.8
-the year,the year,DATE,,,en,3.8
-recent years,recent years,DATE,,,en,3.8
-2020,2020,DATE,,,en,3.8
 "Abstract
 ","Abstract
 ",WORK_OF_ART,,,en,3.8
+the year,the year,DATE,,,en,3.8
+recent years,recent years,DATE,,,en,3.8
+2020,2020,DATE,,,en,3.8
 eight,eight,CARDINAL,,,en,3.8
 this weekend,this weekend,DATE,,,en,3.7
 decades,decades,DATE,,,en,3.7
@@ -115,72 +115,72 @@ next week,next week,DATE,,,en,3.5999999999999996
 Tonight,Tonight,TIME,,,en,3.5
 two years,two years,DATE,,,en,3.5
 11,11,CARDINAL,,,en,3.5
-July 13,July 13,DATE,,,en,3.4000000000000004
 Botrytis,Botrytis,NORP,,,en,3.4000000000000004
+July 13,July 13,DATE,,,en,3.4000000000000004
 Acthar Gel,Acthar Gel,PRODUCT,,,en,3.4000000000000004
+Tamil Nadu,Tamil Nadu,NORP,-0.04817567567567566,0.1507432432432432,en,3.4
 Palestinians,Palestinians,NORP,,,en,3.4
 Irish,Irish,NORP,,,en,3.4
-Tamil Nadu,Tamil Nadu,NORP,-0.04817567567567566,0.1507432432432432,en,3.4
 dozens,dozens,CARDINAL,,,en,3.3999999999999995
-season,season,DATE,,,en,3.3
-the Women's World Cup,the Women's World Cup,EVENT,,,en,3.3
 20 years,20 years,DATE,,,en,3.3
+the Women's World Cup,the Women's World Cup,EVENT,,,en,3.3
+season,season,DATE,,,en,3.3
 Nigerians,Nigerians,NORP,,,en,3.2999999999999994
 Nov. 17,Nov. 17,DATE,,,en,3.2
-2008,2008,DATE,,,en,3.2
 March,March,DATE,,,en,3.2
-afternoon,afternoon,TIME,,,en,3.1999999999999997
+2008,2008,DATE,,,en,3.2
 17,17,CARDINAL,,,en,3.1999999999999997
-24 hours,24 hours,TIME,,,en,3.1
+afternoon,afternoon,TIME,,,en,3.1999999999999997
 9,9,CARDINAL,,,en,3.1
-Thai,Thai,NORP,,,en,3.0
-22,22,CARDINAL,,,en,3.0
-this month,this month,DATE,,,en,3.0
+24 hours,24 hours,TIME,,,en,3.1
 Nigerian,Nigerian,NORP,,,en,3.0
+22,22,CARDINAL,,,en,3.0
+Thai,Thai,NORP,,,en,3.0
+this month,this month,DATE,,,en,3.0
 Italian,Italian,NORP,,,en,2.9999999999999996
 every day,every day,DATE,,,en,2.9000000000000004
 hundreds of millions,hundreds of millions,CARDINAL,,,en,2.9
 20,20,CARDINAL,,,en,2.8999999999999995
-Five,Five,CARDINAL,,,en,2.8000000000000003
 26,26,CARDINAL,,,en,2.8000000000000003
 South African,South African,NORP,,,en,2.8000000000000003
+Five,Five,CARDINAL,,,en,2.8000000000000003
+64,64,CARDINAL,,,en,2.8
+Thousands,Thousands,CARDINAL,,,en,2.8
++1203,+1203,NORP,,,en,2.8
+2023,2023,DATE,,,en,2.8
 "Alpha Trade
 ","Alpha Trade
 ",PRODUCT,,,en,2.8
-+1203,+1203,NORP,,,en,2.8
 52,52,CARDINAL,,,en,2.8
-2023,2023,DATE,,,en,2.8
-64,64,CARDINAL,,,en,2.8
 Earth Day,Earth Day,DATE,0.43333333333333335,0.5666666666666667,en,2.8
-Thousands,Thousands,CARDINAL,,,en,2.8
 4pm,4pm,TIME,,,en,2.8
 zero,zero,CARDINAL,,,en,2.8
 last fall,last fall,DATE,,,en,2.8
 a day,a day,DATE,,,en,2.8
 BP Highway,BP Highway,FAC,,,en,2.8
-2027,2027,CARDINAL,,,en,2.8
-Cricket World Cup,Cricket World Cup,EVENT,,,en,2.8
+Six,Six,CARDINAL,,,en,2.8
 the next few days,the next few days,DATE,,,en,2.8
 neoformans,neoformans,PRODUCT,,,en,2.8
-November,November,DATE,,,en,2.8
-April,April,DATE,,,en,2.8
 third,third,ORDINAL,,,en,2.8
-Six,Six,CARDINAL,,,en,2.8
-Winter,Winter,DATE,,,en,2.8
 +42,+42,NORP,,,en,2.8
 This week,This week,DATE,,,en,2.8
-55,55,CARDINAL,,,en,2.7
-weekend,weekend,DATE,,,en,2.7
+Winter,Winter,DATE,,,en,2.8
+2027,2027,CARDINAL,,,en,2.8
+Cricket World Cup,Cricket World Cup,EVENT,,,en,2.8
+April,April,DATE,,,en,2.8
+November,November,DATE,,,en,2.8
 January 2026,January 2026,DATE,,,en,2.7
+weekend,weekend,DATE,,,en,2.7
+55,55,CARDINAL,,,en,2.7
 Dozens,Dozens,CARDINAL,,,en,2.6999999999999997
 days,days,DATE,,,en,2.6999999999999997
+100m,100m,QUANTITY,,,en,2.6
 Seasonal,Seasonal,DATE,,,en,2.6
-32 million,32 million,CARDINAL,,,en,2.6
 The BP Highway,The BP Highway,FAC,,,en,2.6
+32 million,32 million,CARDINAL,,,en,2.6
 66 years,66 years,DATE,,,en,2.6
 Interstate 17,Interstate 17,FAC,,,en,2.6
 |,|,DATE,,,en,2.6
-100m,100m,QUANTITY,,,en,2.6
 December,December,DATE,,,en,2.5999999999999996
 Indias,Indias,NORP,1.1101136363636364,3.1681245143745143,en,2.5999999999999996
 Sundays,Sundays,DATE,,,en,2.5999999999999996
@@ -377,24 +377,24 @@ the period 2000,the period 2000,DATE,,,en,1.8
 1 km,1 km,QUANTITY,,,en,1.8
 "100,000","100,000",CARDINAL,,,en,1.8
 "85,000","85,000",CARDINAL,,,en,1.8
-Kenyan,Kenyan,NORP,,,en,1.8
-Jan. 18,Jan. 18,DATE,,,en,1.8
-Dec. 01,Dec. 01,DATE,,,en,1.8
-"June 15, 2026 /PRNewswire/","June 15, 2026 /PRNewswire/",DATE,,,en,1.8
-later this week,later this week,DATE,,,en,1.8
+the Royal Prince Alfred Hospital,the Royal Prince Alfred Hospital,FAC,,,en,1.8
 24,24,DATE,,,en,1.8
-the morning,the morning,TIME,,,en,1.8
-June 13,June 13,DATE,,,en,1.8
-Kaduna,Kaduna,NORP,,,en,1.8
+Jan. 18,Jan. 18,DATE,,,en,1.8
+"June 15, 2026 /PRNewswire/","June 15, 2026 /PRNewswire/",DATE,,,en,1.8
 Church Square,Church Square,FAC,,,en,1.8
-"Saturday, June 13","Saturday, June 13",DATE,,,en,1.7
-day two,day two,DATE,,,en,1.7
-42,42,CARDINAL,,,en,1.7
-the Royal Prince Alfred Hospital,the Royal Prince Alfred Hospital,FAC,,,en,1.7
+Kaduna,Kaduna,NORP,,,en,1.8
+June 13,June 13,DATE,,,en,1.8
+the morning,the morning,TIME,,,en,1.8
+late last year,late last year,DATE,,,en,1.8
+later this week,later this week,DATE,,,en,1.8
+Dec. 01,Dec. 01,DATE,,,en,1.8
+Kenyan,Kenyan,NORP,,,en,1.8
 +2307,+2307,NORP,,,en,1.7
 mannans,mannans,NORP,,,en,1.7
+day two,day two,DATE,,,en,1.7
 "Sept. 8, 2026 /PRNewswire/","Sept. 8, 2026 /PRNewswire/",DATE,,,en,1.7
-late last year,late last year,DATE,,,en,1.7
+42,42,CARDINAL,,,en,1.7
+"Saturday, June 13","Saturday, June 13",DATE,,,en,1.7
 up to $8.9m,up to $8.9m,MONEY,,,en,1.7
 around 3.12%,around 3.12%,PERCENT,,,en,1.7
 "Aug. 10, 2026 /PRNewswire/","Aug. 10, 2026 /PRNewswire/",DATE,,,en,1.7
@@ -755,8 +755,8 @@ Fri,Fri,DATE,,,en,1.0
 Rs 5 crore,Rs 5 crore,MONEY,,,en,1.0
 The Guardian of Darkness,The Guardian of Darkness,WORK_OF_ART,,,en,1.0
 Pakistani,Pakistani,NORP,,,en,1.0
-19th,19th,ORDINAL,,,en,1.0
 95km/h,95km/h,QUANTITY,,,en,1.0
+19th,19th,ORDINAL,,,en,1.0
 early Friday,early Friday,DATE,,,en,1.0
 July to September 2001,July to September 2001,DATE,,,en,1.0
 about 9 million,about 9 million,CARDINAL,,,en,1.0
@@ -787,7 +787,7 @@ roughly 52%,roughly 52%,PERCENT,,,en,1.0
 "May 21, 2026 (GLOBE NEWSWIRE) --","May 21, 2026 (GLOBE NEWSWIRE) --",DATE,,,en,1.0
 Central Oregons,Central Oregons,NORP,,,en,1.0
 This Summer,This Summer,DATE,,,en,1.0
-roughly seven,roughly seven,CARDINAL,,,en,1.0
+the Eiffel Tower,the Eiffel Tower,FAC,,,en,1.0
 "2,500","2,500",CARDINAL,,,en,1.0
 From July to September 2001,From July to September 2001,DATE,,,en,1.0
 the World Cup 2026,the World Cup 2026,EVENT,,,en,1.0
@@ -812,7 +812,11 @@ more than 500 kilometres,more than 500 kilometres,QUANTITY,,,en,1.0
 232,232,CARDINAL,,,en,1.0
 Peruvian,Peruvian,NORP,,,en,1.0
 four-day,four-day,DATE,,,en,1.0
-the Eiffel Tower,the Eiffel Tower,FAC,,,en,1.0
+"Abstract
+Introduction
+Dengue","Abstract
+Introduction
+Dengue",WORK_OF_ART,,,en,1.0
 "2,212 metres","2,212 metres",QUANTITY,,,en,1.0
 +5995 chars,+5995 chars,WORK_OF_ART,,,en,1.0
 "June 24, 2026","June 24, 2026",DATE,,,en,1.0
@@ -822,11 +826,7 @@ Greenford Tube,Greenford Tube,FAC,,,en,1.0
 Cinnamon Crunch Peach Muffin Bread,Cinnamon Crunch Peach Muffin Bread,WORK_OF_ART,,,en,1.0
 June 25,June 25,DATE,,,en,1.0
 Half Baked Harvest,Half Baked Harvest,WORK_OF_ART,,,en,1.0
-"Abstract
-Introduction
-Dengue","Abstract
-Introduction
-Dengue",WORK_OF_ART,,,en,1.0
+roughly seven,roughly seven,CARDINAL,,,en,1.0
 that morning,that morning,TIME,,,en,1.0
 the last month and a half,the last month and a half,DATE,,,en,1.0
 The first half,The first half,DATE,,,en,1.0
@@ -1411,7 +1411,7 @@ Ghodbunder,Ghodbunder,LAW,,,en,1.0
 57,57,CARDINAL,,,en,1.0
 the Kumbh Mela,the Kumbh Mela,EVENT,,,en,1.0
 Tuesday night,Tuesday night,TIME,,,en,1.0
-"5,000","5,000",CARDINAL,,,en,1.0
++5759 chars,+5759 chars,WORK_OF_ART,,,en,1.0
 hour-long downpour,hour-long downpour,TIME,,,en,1.0
 Daytime,Daytime,TIME,,,en,1.0
 8pm tonight,8pm tonight,TIME,,,en,1.0
@@ -1514,9 +1514,9 @@ days ahead,days ahead,DATE,,,en,1.0
 Drinking Water Poses A Silent Health Crisis,Drinking Water Poses A Silent Health Crisis,WORK_OF_ART,,,en,1.0
 Jan 5,Jan 5,DATE,,,en,1.0
 a record $18 billion,a record $18 billion,MONEY,,,en,1.0
+Pangenome graph,Pangenome graph,FAC,,,en,1.0
 Oligoryzomys nigripes,Oligoryzomys nigripes,FAC,,,en,1.0
 Juquitiba,Juquitiba,NORP,,,en,1.0
-Pangenome graph,Pangenome graph,FAC,,,en,1.0
 +2702,+2702,NORP,,,en,1.0
 Knowledge Park,Knowledge Park,FAC,,,en,1.0
 The 1800s,The 1800s,DATE,,,en,1.0
@@ -1976,9 +1976,9 @@ A week,A week,DATE,,,en,1.0
 Bengalurus,Bengalurus,WORK_OF_ART,,,en,1.0
 a few hours,a few hours,TIME,,,en,1.0
 yearly,yearly,DATE,,,en,1.0
-over 1.2 billion,over 1.2 billion,CARDINAL,,,en,1.0
 Foglia,Foglia,NORP,,,en,1.0
 Leishmania,Leishmania,NORP,,,en,1.0
+over 1.2 billion,over 1.2 billion,CARDINAL,,,en,1.0
 The Great Salt Lake,The Great Salt Lake,EVENT,,,en,1.0
 +3733 chars,+3733 chars,WORK_OF_ART,,,en,1.0
 36 degrees Celsius,36 degrees Celsius,QUANTITY,,,en,1.0
@@ -2008,7 +2008,7 @@ haematopoietic,haematopoietic,NORP,,,en,1.0
 ▼,▼,CARDINAL,,,en,1.0
 This month,This month,DATE,,,en,1.0
 More than a century ago,More than a century ago,DATE,,,en,1.0
-Wednesday evening,Wednesday evening,TIME,,,en,1.0
+"5,000","5,000",CARDINAL,,,en,1.0
 Roblox,Roblox,PRODUCT,,,en,1.0
 the Miami Grand Prix,the Miami Grand Prix,EVENT,,,en,1.0
 almost six inches,almost six inches,QUANTITY,,,en,1.0
@@ -2021,16 +2021,16 @@ Bayern Munic…,Bayern Munic…,FAC,,,en,1.0
 40-50 kmph,40-50 kmph,QUANTITY,,,en,1.0
 May 7,May 7,DATE,,,en,1.0
 media day,media day,DATE,,,en,1.0
-+5759 chars,+5759 chars,WORK_OF_ART,,,en,1.0
+BookWorm,BookWorm,PRODUCT,,,en,1.0
 the Miami Grand Prix,the Miami Grand Prix,EVENT,,,en,1.0
 at least four,at least four,CARDINAL,,,en,1.0
 Earlier this month,Earlier this month,DATE,,,en,1.0
 millions of acres,millions of acres,QUANTITY,,,en,1.0
 Learnable Gated Fusion,Learnable Gated Fusion,PRODUCT,,,en,1.0
 50km,50km,QUANTITY,,,en,1.0
+Wednesday evening,Wednesday evening,TIME,,,en,1.0
 Bengaluru,Bengaluru,WORK_OF_ART,-0.01092896174863388,0.0546448087431694,en,1.0
 "an estimated 5,000","an estimated 5,000",CARDINAL,,,en,1.0
-BookWorm,BookWorm,PRODUCT,,,en,1.0
 2032,2032,DATE,,,en,1.0
 C. auris,C. auris,PRODUCT,,,en,1.0
 What Are the White Blobs on My Hedgehog,What Are the White Blobs on My Hedgehog,WORK_OF_ART,,,en,1.0
@@ -2055,10 +2055,10 @@ Lodge Pole,Lodge Pole,FAC,,,en,1.0
 18 February,18 February,DATE,,,en,1.0
 These days,These days,DATE,,,en,1.0
 22 KM,22 KM,QUANTITY,,,en,1.0
-nucleot,nucleot,PRODUCT,,,en,1.0
+IgG,IgG,PRODUCT,,,en,1.0
 55 kmph,55 kmph,QUANTITY,,,en,1.0
 15:00 GMT,15:00 GMT,TIME,,,en,1.0
-IgG,IgG,PRODUCT,,,en,1.0
+Microglia,Microglia,NORP,,,en,1.0
 +1099,+1099,NORP,,,en,1.0
 Chaibasa hospital,Chaibasa hospital,FAC,,,en,1.0
 Nucleic Acid Test,Nucleic Acid Test,PRODUCT,,,en,1.0
@@ -2081,7 +2081,7 @@ over coming days,over coming days,DATE,,,en,1.0
 Super League season,Super League season,EVENT,,,en,1.0
 41 consecutive days,41 consecutive days,DATE,,,en,1.0
 the next few years,the next few years,DATE,,,en,1.0
-Microglia,Microglia,NORP,,,en,1.0
+nucleot,nucleot,PRODUCT,,,en,1.0
 10th,10th,ORDINAL,,,en,1.0
 up to 100%,up to 100%,PERCENT,,,en,1.0
 Monday 9 February,Monday 9 February,DATE,,,en,1.0

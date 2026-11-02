@@ -377,24 +377,24 @@ the period 2000,the period 2000,DATE,,,en,1.8
 1 km,1 km,QUANTITY,,,en,1.8
 "100,000","100,000",CARDINAL,,,en,1.8
 "85,000","85,000",CARDINAL,,,en,1.8
-the Royal Prince Alfred Hospital,the Royal Prince Alfred Hospital,FAC,,,en,1.8
-24,24,DATE,,,en,1.8
-Jan. 18,Jan. 18,DATE,,,en,1.8
-"June 15, 2026 /PRNewswire/","June 15, 2026 /PRNewswire/",DATE,,,en,1.8
-Church Square,Church Square,FAC,,,en,1.8
-Kaduna,Kaduna,NORP,,,en,1.8
-June 13,June 13,DATE,,,en,1.8
-the morning,the morning,TIME,,,en,1.8
-late last year,late last year,DATE,,,en,1.8
-later this week,later this week,DATE,,,en,1.8
-Dec. 01,Dec. 01,DATE,,,en,1.8
 Kenyan,Kenyan,NORP,,,en,1.8
+Jan. 18,Jan. 18,DATE,,,en,1.8
+Dec. 01,Dec. 01,DATE,,,en,1.8
+"June 15, 2026 /PRNewswire/","June 15, 2026 /PRNewswire/",DATE,,,en,1.8
+later this week,later this week,DATE,,,en,1.8
+24,24,DATE,,,en,1.8
+the morning,the morning,TIME,,,en,1.8
+June 13,June 13,DATE,,,en,1.8
+Kaduna,Kaduna,NORP,,,en,1.8
+Church Square,Church Square,FAC,,,en,1.8
+"Saturday, June 13","Saturday, June 13",DATE,,,en,1.7
+day two,day two,DATE,,,en,1.7
+42,42,CARDINAL,,,en,1.7
+the Royal Prince Alfred Hospital,the Royal Prince Alfred Hospital,FAC,,,en,1.7
 +2307,+2307,NORP,,,en,1.7
 mannans,mannans,NORP,,,en,1.7
-day two,day two,DATE,,,en,1.7
 "Sept. 8, 2026 /PRNewswire/","Sept. 8, 2026 /PRNewswire/",DATE,,,en,1.7
-42,42,CARDINAL,,,en,1.7
-"Saturday, June 13","Saturday, June 13",DATE,,,en,1.7
+late last year,late last year,DATE,,,en,1.7
 up to $8.9m,up to $8.9m,MONEY,,,en,1.7
 around 3.12%,around 3.12%,PERCENT,,,en,1.7
 "Aug. 10, 2026 /PRNewswire/","Aug. 10, 2026 /PRNewswire/",DATE,,,en,1.7
@@ -755,8 +755,8 @@ Fri,Fri,DATE,,,en,1.0
 Rs 5 crore,Rs 5 crore,MONEY,,,en,1.0
 The Guardian of Darkness,The Guardian of Darkness,WORK_OF_ART,,,en,1.0
 Pakistani,Pakistani,NORP,,,en,1.0
-95km/h,95km/h,QUANTITY,,,en,1.0
 19th,19th,ORDINAL,,,en,1.0
+95km/h,95km/h,QUANTITY,,,en,1.0
 early Friday,early Friday,DATE,,,en,1.0
 July to September 2001,July to September 2001,DATE,,,en,1.0
 about 9 million,about 9 million,CARDINAL,,,en,1.0
@@ -849,12 +849,12 @@ Just 2030 mi,Just 2030 mi,CARDINAL,,,en,1.0
 11:00,11:00,TIME,,,en,1.0
 226.3 millimeters,226.3 millimeters,QUANTITY,,,en,1.0
 Birthday weekend,Birthday weekend,DATE,,,en,1.0
+approximately 300,approximately 300,CARDINAL,,,en,1.0
++92269 chars,+92269 chars,WORK_OF_ART,,,en,1.0
+Andean,Andean,NORP,,,en,1.0
 "Introduction
 Urban","Introduction
 Urban",PRODUCT,,,en,1.0
-1400,1400,CARDINAL,,,en,1.0
-approximately 300,approximately 300,CARDINAL,,,en,1.0
-+92269 chars,+92269 chars,WORK_OF_ART,,,en,1.0
 "100,000x","100,000x",CARDINAL,,,en,1.0
 "Abstract
 Background
@@ -874,7 +874,7 @@ two centuries,two centuries,DATE,,,en,1.0
 all day,all day,DATE,,,en,1.0
 254,254,CARDINAL,,,en,1.0
 a Memorandum of Agreement,a Memorandum of Agreement,LAW,,,en,1.0
-Andean,Andean,NORP,,,en,1.0
+1400,1400,CARDINAL,,,en,1.0
 Twelve months,Twelve months,DATE,,,en,1.0
 Last year,Last year,DATE,,,en,1.0
 "over 2,600 years","over 2,600 years",DATE,,,en,1.0
@@ -1514,9 +1514,9 @@ days ahead,days ahead,DATE,,,en,1.0
 Drinking Water Poses A Silent Health Crisis,Drinking Water Poses A Silent Health Crisis,WORK_OF_ART,,,en,1.0
 Jan 5,Jan 5,DATE,,,en,1.0
 a record $18 billion,a record $18 billion,MONEY,,,en,1.0
-Pangenome graph,Pangenome graph,FAC,,,en,1.0
 Oligoryzomys nigripes,Oligoryzomys nigripes,FAC,,,en,1.0
 Juquitiba,Juquitiba,NORP,,,en,1.0
+Pangenome graph,Pangenome graph,FAC,,,en,1.0
 +2702,+2702,NORP,,,en,1.0
 Knowledge Park,Knowledge Park,FAC,,,en,1.0
 The 1800s,The 1800s,DATE,,,en,1.0
@@ -2026,8 +2026,8 @@ the Miami Grand Prix,the Miami Grand Prix,EVENT,,,en,1.0
 at least four,at least four,CARDINAL,,,en,1.0
 Earlier this month,Earlier this month,DATE,,,en,1.0
 millions of acres,millions of acres,QUANTITY,,,en,1.0
-Learnable Gated Fusion,Learnable Gated Fusion,PRODUCT,,,en,1.0
 50km,50km,QUANTITY,,,en,1.0
+Learnable Gated Fusion,Learnable Gated Fusion,PRODUCT,,,en,1.0
 Wednesday evening,Wednesday evening,TIME,,,en,1.0
 Bengaluru,Bengaluru,WORK_OF_ART,-0.01092896174863388,0.0546448087431694,en,1.0
 "an estimated 5,000","an estimated 5,000",CARDINAL,,,en,1.0
@@ -2055,10 +2055,10 @@ Lodge Pole,Lodge Pole,FAC,,,en,1.0
 18 February,18 February,DATE,,,en,1.0
 These days,These days,DATE,,,en,1.0
 22 KM,22 KM,QUANTITY,,,en,1.0
-IgG,IgG,PRODUCT,,,en,1.0
+nucleot,nucleot,PRODUCT,,,en,1.0
 55 kmph,55 kmph,QUANTITY,,,en,1.0
 15:00 GMT,15:00 GMT,TIME,,,en,1.0
-Microglia,Microglia,NORP,,,en,1.0
+IgG,IgG,PRODUCT,,,en,1.0
 +1099,+1099,NORP,,,en,1.0
 Chaibasa hospital,Chaibasa hospital,FAC,,,en,1.0
 Nucleic Acid Test,Nucleic Acid Test,PRODUCT,,,en,1.0
@@ -2081,7 +2081,7 @@ over coming days,over coming days,DATE,,,en,1.0
 Super League season,Super League season,EVENT,,,en,1.0
 41 consecutive days,41 consecutive days,DATE,,,en,1.0
 the next few years,the next few years,DATE,,,en,1.0
-nucleot,nucleot,PRODUCT,,,en,1.0
+Microglia,Microglia,NORP,,,en,1.0
 10th,10th,ORDINAL,,,en,1.0
 up to 100%,up to 100%,PERCENT,,,en,1.0
 Monday 9 February,Monday 9 February,DATE,,,en,1.0

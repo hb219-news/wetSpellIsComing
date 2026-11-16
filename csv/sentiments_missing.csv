@@ -66,35 +66,35 @@ African,African,NORP,,,en,4.8
 July,July,DATE,,,en,4.799999999999999
 French,French,NORP,,,en,4.7
 a week,a week,DATE,,,en,4.699999999999999
+Ukrainian,Ukrainian,NORP,,,en,4.6
 Cryptococcus,Cryptococcus,NORP,,,en,4.6
 300,300,CARDINAL,,,en,4.6
-Ukrainian,Ukrainian,NORP,,,en,4.6
-annually,annually,DATE,,,en,4.5
 36,36,DATE,,,en,4.5
-the BP Highway,the BP Highway,FAC,,,en,4.4
+annually,annually,DATE,,,en,4.5
 noon,noon,TIME,,,en,4.4
+the BP Highway,the BP Highway,FAC,,,en,4.4
 2100,2100,CARDINAL,,,en,4.299999999999999
-"200,000","200,000",CARDINAL,,,en,4.2
 2021,2021,DATE,,,en,4.2
-January,January,DATE,,,en,4.199999999999999
+"200,000","200,000",CARDINAL,,,en,4.2
 Japanese,Japanese,NORP,,,en,4.199999999999999
+January,January,DATE,,,en,4.199999999999999
 Today,Today,DATE,,,en,4.1000000000000005
 this summer,this summer,DATE,,,en,4.1
 American,American,NORP,,,en,4.099999999999999
 nine,nine,CARDINAL,,,en,4.0
 Tallaght Stadium,Tallaght Stadium,FAC,,,en,4.0
-Surat,Surat,NORP,-0.23232323232323235,1.2737373737373738,en,3.9999999999999996
 months,months,DATE,,,en,3.9999999999999996
+Surat,Surat,NORP,-0.23232323232323235,1.2737373737373738,en,3.9999999999999996
 six,six,CARDINAL,,,en,3.999999999999999
 the World Cup,the World Cup,EVENT,,,en,3.999999999999999
 this afternoon,this afternoon,TIME,,,en,3.9
 early morning,early morning,TIME,,,en,3.8
-"Abstract
-","Abstract
-",WORK_OF_ART,,,en,3.8
 the year,the year,DATE,,,en,3.8
 recent years,recent years,DATE,,,en,3.8
 2020,2020,DATE,,,en,3.8
+"Abstract
+","Abstract
+",WORK_OF_ART,,,en,3.8
 eight,eight,CARDINAL,,,en,3.8
 this weekend,this weekend,DATE,,,en,3.7
 decades,decades,DATE,,,en,3.7
@@ -115,72 +115,72 @@ next week,next week,DATE,,,en,3.5999999999999996
 Tonight,Tonight,TIME,,,en,3.5
 two years,two years,DATE,,,en,3.5
 11,11,CARDINAL,,,en,3.5
-Botrytis,Botrytis,NORP,,,en,3.4000000000000004
 July 13,July 13,DATE,,,en,3.4000000000000004
+Botrytis,Botrytis,NORP,,,en,3.4000000000000004
 Acthar Gel,Acthar Gel,PRODUCT,,,en,3.4000000000000004
-Tamil Nadu,Tamil Nadu,NORP,-0.04817567567567566,0.1507432432432432,en,3.4
 Palestinians,Palestinians,NORP,,,en,3.4
 Irish,Irish,NORP,,,en,3.4
+Tamil Nadu,Tamil Nadu,NORP,-0.04817567567567566,0.1507432432432432,en,3.4
 dozens,dozens,CARDINAL,,,en,3.3999999999999995
-20 years,20 years,DATE,,,en,3.3
-the Women's World Cup,the Women's World Cup,EVENT,,,en,3.3
 season,season,DATE,,,en,3.3
+the Women's World Cup,the Women's World Cup,EVENT,,,en,3.3
+20 years,20 years,DATE,,,en,3.3
 Nigerians,Nigerians,NORP,,,en,3.2999999999999994
 Nov. 17,Nov. 17,DATE,,,en,3.2
-March,March,DATE,,,en,3.2
 2008,2008,DATE,,,en,3.2
-17,17,CARDINAL,,,en,3.1999999999999997
+March,March,DATE,,,en,3.2
 afternoon,afternoon,TIME,,,en,3.1999999999999997
-9,9,CARDINAL,,,en,3.1
+17,17,CARDINAL,,,en,3.1999999999999997
 24 hours,24 hours,TIME,,,en,3.1
-Nigerian,Nigerian,NORP,,,en,3.0
-22,22,CARDINAL,,,en,3.0
+9,9,CARDINAL,,,en,3.1
 Thai,Thai,NORP,,,en,3.0
+22,22,CARDINAL,,,en,3.0
 this month,this month,DATE,,,en,3.0
+Nigerian,Nigerian,NORP,,,en,3.0
 Italian,Italian,NORP,,,en,2.9999999999999996
 every day,every day,DATE,,,en,2.9000000000000004
 hundreds of millions,hundreds of millions,CARDINAL,,,en,2.9
 20,20,CARDINAL,,,en,2.8999999999999995
+Five,Five,CARDINAL,,,en,2.8000000000000003
 26,26,CARDINAL,,,en,2.8000000000000003
 South African,South African,NORP,,,en,2.8000000000000003
-Five,Five,CARDINAL,,,en,2.8000000000000003
-64,64,CARDINAL,,,en,2.8
-Thousands,Thousands,CARDINAL,,,en,2.8
-+1203,+1203,NORP,,,en,2.8
-2023,2023,DATE,,,en,2.8
 "Alpha Trade
 ","Alpha Trade
 ",PRODUCT,,,en,2.8
++1203,+1203,NORP,,,en,2.8
 52,52,CARDINAL,,,en,2.8
+2023,2023,DATE,,,en,2.8
+64,64,CARDINAL,,,en,2.8
 Earth Day,Earth Day,DATE,0.43333333333333335,0.5666666666666667,en,2.8
+Thousands,Thousands,CARDINAL,,,en,2.8
 4pm,4pm,TIME,,,en,2.8
 zero,zero,CARDINAL,,,en,2.8
 last fall,last fall,DATE,,,en,2.8
 a day,a day,DATE,,,en,2.8
 BP Highway,BP Highway,FAC,,,en,2.8
-Six,Six,CARDINAL,,,en,2.8
-the next few days,the next few days,DATE,,,en,2.8
-neoformans,neoformans,PRODUCT,,,en,2.8
-third,third,ORDINAL,,,en,2.8
-+42,+42,NORP,,,en,2.8
-This week,This week,DATE,,,en,2.8
-Winter,Winter,DATE,,,en,2.8
 2027,2027,CARDINAL,,,en,2.8
 Cricket World Cup,Cricket World Cup,EVENT,,,en,2.8
-April,April,DATE,,,en,2.8
+the next few days,the next few days,DATE,,,en,2.8
+neoformans,neoformans,PRODUCT,,,en,2.8
 November,November,DATE,,,en,2.8
-January 2026,January 2026,DATE,,,en,2.7
-weekend,weekend,DATE,,,en,2.7
+April,April,DATE,,,en,2.8
+third,third,ORDINAL,,,en,2.8
+Six,Six,CARDINAL,,,en,2.8
+Winter,Winter,DATE,,,en,2.8
++42,+42,NORP,,,en,2.8
+This week,This week,DATE,,,en,2.8
 55,55,CARDINAL,,,en,2.7
+weekend,weekend,DATE,,,en,2.7
+January 2026,January 2026,DATE,,,en,2.7
 Dozens,Dozens,CARDINAL,,,en,2.6999999999999997
 days,days,DATE,,,en,2.6999999999999997
-100m,100m,QUANTITY,,,en,2.6
 Seasonal,Seasonal,DATE,,,en,2.6
-The BP Highway,The BP Highway,FAC,,,en,2.6
 32 million,32 million,CARDINAL,,,en,2.6
+The BP Highway,The BP Highway,FAC,,,en,2.6
 66 years,66 years,DATE,,,en,2.6
 Interstate 17,Interstate 17,FAC,,,en,2.6
 |,|,DATE,,,en,2.6
+100m,100m,QUANTITY,,,en,2.6
 December,December,DATE,,,en,2.5999999999999996
 Indias,Indias,NORP,1.1101136363636364,3.1681245143745143,en,2.5999999999999996
 Sundays,Sundays,DATE,,,en,2.5999999999999996
@@ -623,14 +623,14 @@ a rainy day,a rainy day,DATE,,,en,1.3
 every few weeks,every few weeks,DATE,,,en,1.3
 Southern,Southern,NORP,,,en,1.3
 November 19,November 19,DATE,,,en,1.3
-about 80%,about 80%,PERCENT,,,en,1.3
+Nazi,Nazi,NORP,,,en,1.3
 20 Years,20 Years,DATE,,,en,1.3
 Aztecs,Aztecs,NORP,,,en,1.3
 Afternoon,Afternoon,TIME,,,en,1.3
 Santak,Santak,FAC,,,en,1.3
-Nazi,Nazi,NORP,,,en,1.3
 Holiday weekend,Holiday weekend,DATE,,,en,1.3
 midnight,midnight,TIME,,,en,1.3
+about 80%,about 80%,PERCENT,,,en,1.3
 -0.96%,-0.96%,PERCENT,,,en,1.3
 seven percent,seven percent,PERCENT,,,en,1.3
 a cool evening,a cool evening,TIME,,,en,1.3
@@ -687,14 +687,14 @@ December 3,December 3,DATE,,,en,1.3
 the fourth winter,the fourth winter,DATE,,,en,1.3
 $1.2 billion,$1.2 billion,MONEY,,,en,1.3
 around 5.6 to 5.7,around 5.6 to 5.7,CARDINAL,,,en,1.3
-about 40,about 40,CARDINAL,,,en,1.3
+"August 3, 2026","August 3, 2026",DATE,,,en,1.3
 2006,2006,DATE,,,en,1.3
 Aug 16,Aug 16,DATE,,,en,1.3
+about a week,about a week,DATE,,,en,1.3
 around 11,around 11,DATE,,,en,1.3
 31C,31C,CARDINAL,,,en,1.3
-about a week,about a week,DATE,,,en,1.3
 "the night of January 24, 1975","the night of January 24, 1975",TIME,,,en,1.3
-"August 3, 2026","August 3, 2026",DATE,,,en,1.3
+about 40,about 40,CARDINAL,,,en,1.3
 1753,1753,DATE,,,en,1.3
 the Canada Pavilion,the Canada Pavilion,FAC,,,en,1.3
 Annual,Annual,DATE,,,en,1.3
@@ -707,13 +707,13 @@ Peach Truck,Peach Truck,FAC,,,en,1.2
 the week starting Tuesday,the week starting Tuesday,DATE,,,en,1.2
 up to 40%,up to 40%,PERCENT,,,en,1.2
 22nd July 2026,22nd July 2026,DATE,,,en,1.2
-István,István,NORP,,,en,1.2
 a second day,a second day,DATE,,,en,1.2
 Alternate Wetting and Drying,Alternate Wetting and Drying,PRODUCT,,,en,1.2
 Vizianagaram,Vizianagaram,PRODUCT,,,en,1.2
+István,István,NORP,,,en,1.2
 the Black Caps,the Black Caps,LAW,,,en,1.2
-Hungarian,Hungarian,NORP,,,en,1.2
 -1.27%,-1.27%,PERCENT,,,en,1.2
+Hungarian,Hungarian,NORP,,,en,1.2
 2000,2000,DATE,,,en,1.2
 -1.56%,-1.56%,PERCENT,,,en,1.2
 seven years,seven years,DATE,,,en,1.2
@@ -729,30 +729,29 @@ two-week-long,two-week-long,DATE,,,en,1.2
 +73,+73,CARDINAL,,,en,1.2
 1998,1998,DATE,,,en,1.2
 day five of the,day five of the,DATE,,,en,1.2
-the Air Itam Dam,the Air Itam Dam,FAC,,,en,1.1
 2.5,2.5,CARDINAL,,,en,1.1
-over 5 cm,over 5 cm,QUANTITY,,,en,1.1
+75%,75%,PERCENT,,,en,1.1
 40 million,40 million,CARDINAL,,,en,1.1
 $20 billion,$20 billion,MONEY,,,en,1.1
 Balinese,Balinese,NORP,,,en,1.1
 about 1845 to 1852,about 1845 to 1852,DATE,,,en,1.1
 2 years,2 years,DATE,,,en,1.1
-Nineties,Nineties,DATE,,,en,1.1
 Eighteen-year-old,Eighteen-year-old,DATE,,,en,1.1
+Nineties,Nineties,DATE,,,en,1.1
+the Air Itam Dam,the Air Itam Dam,FAC,,,en,1.1
 the past two years,the past two years,DATE,,,en,1.1
 1978,1978,DATE,,,en,1.1
 just 10,just 10,CARDINAL,,,en,1.1
 Proposition 4,Proposition 4,LAW,,,en,1.1
 Samba,Samba,WORK_OF_ART,,,en,1.1
-75%,75%,PERCENT,,,en,1.1
+over 5 cm,over 5 cm,QUANTITY,,,en,1.1
 Mattuthavani,Mattuthavani,NORP,,,en,1.0
-10/15-10/21,10/15-10/21,CARDINAL,,,en,1.0
-May 2026,May 2026,DATE,,,en,1.0
 "'Double Insult' As Protesters Are Starved, Sh","'Double Insult' As Protesters Are Starved, Sh",WORK_OF_ART,,,en,1.0
-"roughly 1,300 kilometers","roughly 1,300 kilometers",QUANTITY,,,en,1.0
-THOUSANDS,THOUSANDS,CARDINAL,,,en,1.0
+10/15-10/21,10/15-10/21,CARDINAL,,,en,1.0
 Fri,Fri,DATE,,,en,1.0
-Rs 5 crore,Rs 5 crore,MONEY,,,en,1.0
+THOUSANDS,THOUSANDS,CARDINAL,,,en,1.0
+5 am,5 am,TIME,,,en,1.0
+"roughly 1,300 kilometers","roughly 1,300 kilometers",QUANTITY,,,en,1.0
 The Guardian of Darkness,The Guardian of Darkness,WORK_OF_ART,,,en,1.0
 Pakistani,Pakistani,NORP,,,en,1.0
 19th,19th,ORDINAL,,,en,1.0
@@ -764,10 +763,10 @@ a miserable day,a miserable day,DATE,,,en,1.0
 first-quarter 2026,first-quarter 2026,DATE,,,en,1.0
 Handayani,Handayani,NORP,,,en,1.0
 3 million litres,3 million litres,QUANTITY,,,en,1.0
-5 am,5 am,TIME,,,en,1.0
+May 2026,May 2026,DATE,,,en,1.0
 11 months ago,11 months ago,DATE,,,en,1.0
-Forza Horizon 6,Forza Horizon 6,WORK_OF_ART,,,en,1.0
-4 lakh,4 lakh,MONEY,,,en,1.0
+Rs 5 crore,Rs 5 crore,MONEY,,,en,1.0
+"nearly 3,800","nearly 3,800",CARDINAL,,,en,1.0
 90,90,MONEY,,,en,1.0
 23XI,23XI,CARDINAL,,,en,1.0
 just a few thousand,just a few thousand,CARDINAL,,,en,1.0
@@ -777,8 +776,8 @@ just a few thousand,just a few thousand,CARDINAL,,,en,1.0
 century-old,century-old,DATE,,,en,1.0
 over an hour,over an hour,TIME,,,en,1.0
 "just $4,554","just $4,554",MONEY,,,en,1.0
-"nearly 3,800","nearly 3,800",CARDINAL,,,en,1.0
 "9,738","9,738",MONEY,,,en,1.0
+Forza Horizon 6,Forza Horizon 6,WORK_OF_ART,,,en,1.0
 sixth,sixth,ORDINAL,,,en,1.0
 &amp,&amp,FAC,,,en,1.0
 "approximately 3,500kg","approximately 3,500kg",QUANTITY,,,en,1.0
@@ -787,6 +786,7 @@ roughly 52%,roughly 52%,PERCENT,,,en,1.0
 "May 21, 2026 (GLOBE NEWSWIRE) --","May 21, 2026 (GLOBE NEWSWIRE) --",DATE,,,en,1.0
 Central Oregons,Central Oregons,NORP,,,en,1.0
 This Summer,This Summer,DATE,,,en,1.0
+4 lakh,4 lakh,MONEY,,,en,1.0
 the Eiffel Tower,the Eiffel Tower,FAC,,,en,1.0
 "2,500","2,500",CARDINAL,,,en,1.0
 From July to September 2001,From July to September 2001,DATE,,,en,1.0
@@ -832,15 +832,15 @@ the last month and a half,the last month and a half,DATE,,,en,1.0
 The first half,The first half,DATE,,,en,1.0
 the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.0
 Lincoln Financial Field,Lincoln Financial Field,FAC,,,en,1.0
-at least 30 minutes,at least 30 minutes,TIME,,,en,1.0
 Lancs v Worcs,Lancs v Worcs,FAC,,,en,1.0
 nearly six,nearly six,CARDINAL,,,en,1.0
+at least 30 minutes,at least 30 minutes,TIME,,,en,1.0
 two years ago,two years ago,DATE,,,en,1.0
 last 32,last 32,DATE,,,en,1.0
 About 400 years ago,About 400 years ago,DATE,,,en,1.0
+4%,4%,PERCENT,,,en,1.0
 Darul Uloom Rahimiya,Darul Uloom Rahimiya,FAC,,,en,1.0
 Delive,Delive,WORK_OF_ART,,,en,1.0
-4%,4%,PERCENT,,,en,1.0
 the Gulf war,the Gulf war,EVENT,,,en,1.0
 4:00 PM,4:00 PM,TIME,,,en,1.0
 6-we,6-we,CARDINAL,,,en,1.0
@@ -980,7 +980,7 @@ every month,every month,DATE,,,en,1.0
 Backpacking Light,Backpacking Light,WORK_OF_ART,,,en,1.0
 148,148,CARDINAL,,,en,1.0
 all night,all night,TIME,,,en,1.0
-over 2.2 million,over 2.2 million,CARDINAL,,,en,1.0
++39803,+39803,NORP,,,en,1.0
 "Saturday, Sept. 19","Saturday, Sept. 19",DATE,,,en,1.0
 +5854 chars,+5854 chars,WORK_OF_ART,,,en,1.0
 September 2024,September 2024,DATE,,,en,1.0
@@ -1000,14 +1000,13 @@ just 48 hours,just 48 hours,TIME,,,en,1.0
 Dharamshala Weather Forecast:,Dharamshala Weather Forecast:,WORK_OF_ART,,,en,1.0
 Dharamshala Weather Forecast,Dharamshala Weather Forecast,WORK_OF_ART,,,en,1.0
 This Week,This Week,DATE,,,en,1.0
-2.2 million,2.2 million,CARDINAL,,,en,1.0
+over 2.2 million,over 2.2 million,CARDINAL,,,en,1.0
 30,30,CARDINAL,,,en,1.0
 14 million,14 million,CARDINAL,,,en,1.0
 About two-thirds,About two-thirds,CARDINAL,,,en,1.0
 "60,000","60,000",CARDINAL,,,en,1.0
 Outdoor Adventures Are Creating the Perfect Conditions for a Waterborne Bacterial Disease That Most Americans Have Never Heard Of,Outdoor Adventures Are Creating the Perfect Conditions for a Waterborne Bacterial Disease That Most Americans Have Never Heard Of,EVENT,,,en,1.0
 late spring 2026,late spring 2026,DATE,,,en,1.0
-+39803,+39803,NORP,,,en,1.0
 18031876,18031876,DATE,,,en,1.0
 694,694,MONEY,,,en,1.0
 a challenging season,a challenging season,DATE,,,en,1.0
@@ -1016,6 +1015,7 @@ Saturday night,Saturday night,TIME,,,en,1.0
 Predicts Thanksgiving Weather for 2025,Predicts Thanksgiving Weather for 2025,WORK_OF_ART,,,en,1.0
 "Jun 13, 2026","Jun 13, 2026",DATE,,,en,1.0
 this June,this June,DATE,,,en,1.0
+2.2 million,2.2 million,CARDINAL,,,en,1.0
 "11,872 millimetres","11,872 millimetres",QUANTITY,,,en,1.0
 1.3 x 2.5 km,1.3 x 2.5 km,QUANTITY,,,en,1.0
 660,660,CARDINAL,,,en,1.0
@@ -1514,9 +1514,9 @@ days ahead,days ahead,DATE,,,en,1.0
 Drinking Water Poses A Silent Health Crisis,Drinking Water Poses A Silent Health Crisis,WORK_OF_ART,,,en,1.0
 Jan 5,Jan 5,DATE,,,en,1.0
 a record $18 billion,a record $18 billion,MONEY,,,en,1.0
+Pangenome graph,Pangenome graph,FAC,,,en,1.0
 Oligoryzomys nigripes,Oligoryzomys nigripes,FAC,,,en,1.0
 Juquitiba,Juquitiba,NORP,,,en,1.0
-Pangenome graph,Pangenome graph,FAC,,,en,1.0
 +2702,+2702,NORP,,,en,1.0
 Knowledge Park,Knowledge Park,FAC,,,en,1.0
 The 1800s,The 1800s,DATE,,,en,1.0
@@ -1975,10 +1975,10 @@ Triceratops,Triceratops,WORK_OF_ART,,,en,1.0
 A week,A week,DATE,,,en,1.0
 Bengalurus,Bengalurus,WORK_OF_ART,,,en,1.0
 a few hours,a few hours,TIME,,,en,1.0
-yearly,yearly,DATE,,,en,1.0
 Foglia,Foglia,NORP,,,en,1.0
 Leishmania,Leishmania,NORP,,,en,1.0
 over 1.2 billion,over 1.2 billion,CARDINAL,,,en,1.0
+yearly,yearly,DATE,,,en,1.0
 The Great Salt Lake,The Great Salt Lake,EVENT,,,en,1.0
 +3733 chars,+3733 chars,WORK_OF_ART,,,en,1.0
 36 degrees Celsius,36 degrees Celsius,QUANTITY,,,en,1.0
